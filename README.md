@@ -3,7 +3,7 @@
  -------
  
 ###[목록] 
-####- data structure
+####data structure
 
 	 * 자료구조란
 	 * 정렬
@@ -11,8 +11,8 @@
 	 * 큐
 	 * 트리
 
-####- algorithm
-####- network
-####- operating system
+####algorithm
+####network
+####operating system
 
 
