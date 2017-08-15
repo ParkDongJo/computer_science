@@ -39,6 +39,17 @@ public class ArrayBinaryTree {
 
     public void delete(int data) {
 
+        int idx = search(data, ROOT_IDX);
+
+        int right = findMinToRight(idx * 2 + 1);
+        int left = findMaxToLeft(idx * 2);
+
+        if(array[right] != null) {
+            array[idx] = array[right];
+        }else{
+            array[idx] = array[left];
+        }
+
     }
 
     public int search(int data, int cursor) {
@@ -56,18 +67,20 @@ public class ArrayBinaryTree {
 
         }
     }
-//
-//    public int findParent() {
-//
-//    }
-//
-//    public int findChild() {
-//
-//    }
 
-//    public boolean isFull() {
-//
-//    }
+    public int findMinToRight(int cursor) {
+        if(array[cursor * 2] == null ) {
+            return cursor;
+        }
+        return findMinToRight(cursor * 2);
+    }
+
+    public int findMaxToLeft(int cursor) {
+        if(array[cursor * 2 + 1] == null ) {
+            return cursor;
+        }
+        return findMaxToLeft(cursor * 2 + 1);
+    }
 
     public void print(int cursor) {
 
