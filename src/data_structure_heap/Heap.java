@@ -5,8 +5,12 @@ package data_structure_heap;
  */
 public class Heap {
 
-    private int ARR_SIZE = 20;
-    private int ROOT_IDX = 1;
+    private final static int FAIL = -1;
+    private final static int SUCCESS = 1;
+    private final static int NULL_POINT = -1;
+
+    private final static int ARR_SIZE = 20;
+    private final static int ROOT_IDX = 1;
     private Integer[] array = new Integer[ARR_SIZE];
     private int cursor;
 
@@ -30,7 +34,17 @@ public class Heap {
 
     public int delete(int data) {
 
-        return -1;
+        if(this.cursor < ARR_SIZE) {
+            int idx = search(data, ROOT_IDX);
+
+            array[idx] = array[this.cursor--];
+            array[this.cursor] = null;
+
+            return SUCCESS;
+        }else{
+            return FAIL;
+        }
+
     }
 
     public boolean compare(int parentsIdx, int childIdx) {
@@ -53,6 +67,22 @@ public class Heap {
         array[childIdx] = temp;
 
         switchNode(parentsIdx/2, parentsIdx);
+    }
+
+    public int search(int data, int cursor) {
+
+        if (array[cursor] == data) {
+            return cursor;
+        } else if(array[cursor] == null) {
+            return NULL_POINT;
+        }else {
+
+            int left = search(data, 2 * cursor);
+            int right = search(data, 2 * cursor + 1);
+
+            return left == NULL_POINT ? right : left;
+
+        }
     }
 
     public void print() {
