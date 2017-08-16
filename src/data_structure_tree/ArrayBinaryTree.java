@@ -4,19 +4,13 @@ package data_structure_tree;
  * Created by parkdongjo on 2017. 7. 8..
  */
 public class ArrayBinaryTree {
-    private final int ARR_SIZE = 15;
-    private final int ROOT_IDX = 1;
+    private final static int ARR_SIZE = 15;
+    private final static int ROOT_IDX = 1;
     private Integer[] array = new Integer[ARR_SIZE+1];
     private int root;
-    private int child;
-    private int parent;
-    private int depth;  //depth의 역할은 무엇인
-    private int maxDepth;
     private int cursor;
 
     public ArrayBinaryTree() {
-        this.depth = 0;
-        this.maxDepth = 0;
         this.cursor = ROOT_IDX;
     }
 
