@@ -37,8 +37,14 @@ public class Heap {
         if(this.cursor < ARR_SIZE) {
             int idx = search(data, ROOT_IDX);
 
-            array[idx] = array[this.cursor--];
+            array[idx] = array[--this.cursor];
             array[this.cursor] = null;
+
+            if(idx == ROOT_IDX) {
+                for(int i=this.cursor-1; i > ROOT_IDX; i--) {
+                    switchNode(i/2,i);
+                }
+            }
 
             return SUCCESS;
         }else{
@@ -71,10 +77,11 @@ public class Heap {
 
     public int search(int data, int cursor) {
 
-        if (array[cursor] == data) {
-            return cursor;
-        } else if(array[cursor] == null) {
+
+        if(array[cursor] == null) {
             return NULL_POINT;
+        }else if (array[cursor] == data) {
+            return cursor;
         }else {
 
             int left = search(data, 2 * cursor);
@@ -87,7 +94,11 @@ public class Heap {
 
     public void print() {
         for (int i=1; i<array.length; i++) {
-            System.out.print(array[i]);
+            if (array[i] != null) {
+                System.out.print(array[i] + " , ");
+            }else {
+                System.out.print("__ , ");
+            }
         }
     }
 }
