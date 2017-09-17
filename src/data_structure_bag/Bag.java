@@ -1,4 +1,4 @@
-package data_structure_sort;
+package data_structure_bag;
 
 /**
  * Created by parkdongjo on 2017. 6. 3..
