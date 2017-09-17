@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdb6af9e-c1da-4c3b-9191-0b71ec833944" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data_structure_bag/Bag.java" afterPath="$PROJECT_DIR$/src/data_structure_bag/Bag.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data_structure_graph/GraphLinkedList.java" afterPath="$PROJECT_DIR$/src/data_structure_graph/GraphLinkedList.java" />
-    </list>
+    <list default="true" id="fdb6af9e-c1da-4c3b-9191-0b71ec833944" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,11 +19,11 @@
       <file leaf-file-name="GraphLinkedList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/data_structure_graph/GraphLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-283">
-              <caret line="48" column="8" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+            <state relative-caret-position="167">
+              <caret line="78" column="9" lean-forward="true" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
               <folding>
-                <element signature="e#1979#1980#0" expanded="true" />
-                <element signature="e#2034#2035#0" expanded="true" />
+                <element signature="e#1971#1972#0" expanded="true" />
+                <element signature="e#2026#2027#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -820,7 +816,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27991000" />
+    <option name="totallyTimeSpent" value="28043000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="23" width="1250" height="777" extended-state="6" />
@@ -1326,11 +1322,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_structure_graph/GraphLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-283">
-          <caret line="48" column="8" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+        <state relative-caret-position="167">
+          <caret line="78" column="9" lean-forward="true" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
           <folding>
-            <element signature="e#1979#1980#0" expanded="true" />
-            <element signature="e#2034#2035#0" expanded="true" />
+            <element signature="e#1971#1972#0" expanded="true" />
+            <element signature="e#2026#2027#0" expanded="true" />
           </folding>
         </state>
       </provider>

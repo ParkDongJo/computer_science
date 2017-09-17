@@ -46,7 +46,7 @@ public class GraphLinkedList {
             lists.add(head);
             result = WORK_SUCCESS;
         }
-        
+
         return result;
     }
 
