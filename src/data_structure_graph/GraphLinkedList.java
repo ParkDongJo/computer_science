@@ -85,7 +85,16 @@ public class GraphLinkedList {
         return lists.size() == 0 ? true : false;
     }
 
-    public void Adjacent(int v) {
+    public LinkedList<Integer> Adjacent(int v) {
+        LinkedList<Integer> result = null;
 
+        for(LinkedList<Integer> list : lists) {
+            if(list.getFirst() == v) {
+                result = list;
+                result.remove(v);
+            }
+        }
+
+        return result;
     }
 }

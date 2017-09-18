@@ -9,6 +9,7 @@ public class GraphArray {
 
     private static final int WORK_FAIL = -1;
     private static final int WORK_SUCCESS = -1;
+    private static final int IN_VERTEX = 1;
 
     private Integer[][] matrix;
     private Integer[] array;
@@ -46,8 +47,8 @@ public class GraphArray {
         int result = WORK_FAIL;
 
         if(isEmpty(v1,v2)) {
-            matrix[v1][v2] = 1;
-            matrix[v2][v1] = 1;
+            matrix[v1][v2] = IN_VERTEX;
+            matrix[v2][v1] = IN_VERTEX;
             result = WORK_SUCCESS;
         }
 
@@ -82,7 +83,16 @@ public class GraphArray {
         return matrix[v1][v2] == null ? true : false;
     }
 
-    public void Adjacent(int v) {
+    public int[] Adjacent(int v) {
+        int[] result = null;
+        int idx = 0;
 
+        for(int i=0; i<size; i++) {
+            if(matrix[v][i] == IN_VERTEX) {
+                result[idx++] = i;
+            }
+        }
+
+        return result;
     }
 }
