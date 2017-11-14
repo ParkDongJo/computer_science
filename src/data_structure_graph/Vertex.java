@@ -6,11 +6,7 @@ import data_structure_linked_list.Node;
 public class Vertex {
     private int data;
     private Node nextNode;
-
-    public Vertex(int data) {
-        this.data = data;
-        this.nextNode = null;
-    }
+    private Vertex nextVertex;
 
     public void setData(int data) {
         this.data = data;
@@ -20,12 +16,7 @@ public class Vertex {
         return data;
     }
 
-    public void setNextNode(Node nextNode) {
-        this.nextNode = nextNode;
-    }
-
     public Node getNextNode() {
         return nextNode;
     }
-
 }
