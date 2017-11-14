@@ -3,10 +3,10 @@ package data_algorithm_theory;
 /**
  * Created by parkdongjo on 2017. 9. 19..
  */
-public class Edge {
+public class Edge implements Comparable<Edge>{
     private int start;
     private int end;
-    private int weight;
+    private Integer weight;
 
     public Edge() {
 
@@ -38,7 +38,12 @@ public class Edge {
         return start;
     }
 
-    public int getWeight() {
+    public Integer getWeight() {
         return weight;
+    }
+
+    @Override
+    public int compareTo(Edge edge) {
+        return this.getWeight().compareTo(edge.getWeight());
     }
 }
