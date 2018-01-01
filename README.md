@@ -15,7 +15,7 @@
 	8) 다익스트라.크루스칼,프라임
 	9) 해쉬
 	
-#### 자료구자란
+자료구조란
 =====
 Data Structure = Data + Interface
 
@@ -50,3 +50,41 @@ Data Structure = Data + Interface
 - HASH
 
 
+
+
+알고리즘
+
+    1. Devide & conquer
+        - binary search
+        - merge sort
+        - Quick sort
+        - Strassen's Matrix Multiplication
+    2.Dyramic programming
+        - Binomial coefficient
+        - Floydis algorithm
+        - Optimization problem
+        - TSP
+    3.The Greedy Approach
+        - MST
+        - Dijkstra's
+        - Scheduling
+        - Huffmun Code
+        - Knapsack problem
+    4.Back Tracking
+        - n-Queen Problem
+        - Monte Carlo
+        - Cdoriny numitonian ciruit
+
+
+알고리즘이란
+=====
+Algorithm = The step-by-step procedure for solving problem
+
+어떠한 문제를 해결하기 위한 여러 동작들의 모임이다. 유한성을 가지며, 언젠가는 끝나야 하는 속성을 가지고 있다.
+알고리즘은 다음의 조건을 만족해야 한다.
+
+    입력 : 외부에서 제공되는 자료가 0개 이상 존재해야한다.
+    출력 : 적어도 1개 이상의 서로 다른 결과를 내어야 한다.(즉 모든 입력에 하나의 출력이 나오면 안됨)
+    명확성 : 수행 과정은 명확하고 모호하지 않은 명령어로 구성되어야 한다.
+    유한성(종결성) : 알고리즘의 명령어들은 끝이 있는 계산을 수행한 후에 종료해야 한다.(출처-동아출판 중학교 정보책 날짜-2017-7-11)
+    효율성 : 모든 과정은 명백하게 실행 가능(검증 가능)한 것이어야 한다.
