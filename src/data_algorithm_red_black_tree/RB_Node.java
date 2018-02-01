@@ -9,6 +9,7 @@ public class RB_Node {
     private RB_Node left;
     private RB_Node right;
     private int key;
+    private int size;
 
     public void setColor(boolean color) {
         this.color = color;
@@ -16,6 +17,10 @@ public class RB_Node {
 
     public void setKey(int key) {
         this.key = key;
+    }
+
+    public void setSize(int size) {
+        this.size = size;
     }
 
     public void setLeft(RB_Node left) {
@@ -44,5 +49,13 @@ public class RB_Node {
 
     public RB_Node getRight() {
         return right;
+    }
+
+    public boolean getColor() {
+        return color;
+    }
+
+    public int getSize() {
+        return size;
     }
 }
