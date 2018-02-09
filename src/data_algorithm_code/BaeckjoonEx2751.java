@@ -2,6 +2,10 @@ package data_algorithm_code;
 
 import java.util.Scanner;
 
+/**
+ * 병합 정렬로 풀어보기 지금 정렬 알고리즘으로는 속도가 안나옴
+ */
+
 public class BaeckjoonEx2751 {
 
     private static int[] arr;
