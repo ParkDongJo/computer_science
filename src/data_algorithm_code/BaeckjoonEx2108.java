@@ -1,8 +1,6 @@
 package data_algorithm_code;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
+import java.util.*;
 
 public class BaeckjoonEx2108 {
 
@@ -38,6 +36,7 @@ public class BaeckjoonEx2108 {
         return arr[idx+1];
     }
     public static int getFrequencyNum(int[] arr) {
+        int maxFreq = -1;
         HashMap<Integer,Integer> freqs = new HashMap<Integer,Integer>();
 
         for(int i=0; i<arr.length; i++) {
@@ -47,9 +46,28 @@ public class BaeckjoonEx2108 {
                 int cnt = freqs.get(arr[i]);
                 freqs.put(arr[i],++cnt);
             }
+
+            if(maxFreq < freqs.get(arr[i])) {
+                maxFreq = freqs.get(arr[i]);
+            }
         }
 
 
+        for(Map.Entry<Integer, Integer> entry : freqs.entrySet()) {
+
+//            System.out.println("entry.getKey() : "  +entry.getKey());
+//            System.out.println("entry.getValue() : "  +entry.getValue());
+//
+//            freqs.remove(-1);
+//            freqs.remove(1);
+//            if(entry.getValue() < maxFreq) {
+//                freqs.remove(entry.getKey());
+//            }
+            freqs.remove(entry.getKey());
+//            System.out.println(freqs.get(entry.getKey()));
+        }
+
+        System.out.println("maxFreq : " + maxFreq);
 
         freqs.forEach((k,v) ->
                 System.out.println("key: "+k+" value:"+v)
