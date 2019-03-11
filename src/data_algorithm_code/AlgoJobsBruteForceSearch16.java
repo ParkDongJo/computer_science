@@ -80,7 +80,7 @@ public class AlgoJobsBruteForceSearch16 {
             }
 
 
-            if (line == 3) {
+            if (line >= 3) {
                 idx = i+1;
                 break;
             }
