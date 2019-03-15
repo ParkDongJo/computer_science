@@ -4,27 +4,37 @@ import java.util.Scanner;
 
 public class AlgoJobsBasicNumTheory6 {
 
-    public static long[] memo = new long[31];
+    public static int[][] pascal = new int[31][31];
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
         int m = scan.nextInt();
 
-        long a = factorial(n);
-        long b = factorial(n-m);
-        long c = factorial(m);
+        int num = getNumInPascal(n,m);
 
-        System.out.println(a / (b * c));
+        System.out.println(num);
     }
 
-    public static long factorial(int n) {
 
-        if (n<=1) {
-            return 1;
-        } else if (memo[n] != 0) {
-            return memo[n];
+    public static int getNumInPascal(int n, int m) {
+        int j;
+        for (int i=0; i<31; i++) {
+
+            for (j = 0; j<(i+1); j++) {
+                if (j == 0 || j == i) {
+                    pascal[i][j] = 1;
+                } else {
+                    pascal[i][j] = pascal[i-1][j] + pascal[i-1][j-1];
+                }
+            }
+
+            if (i == n && (j-1)==m) {
+                break;
+            }
         }
-        return memo[n] = (n) * factorial(n-1);
+
+        return pascal[n][m];
     }
+
 
 }

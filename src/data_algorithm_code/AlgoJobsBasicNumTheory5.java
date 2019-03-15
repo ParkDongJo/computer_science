@@ -4,41 +4,27 @@ import java.util.Scanner;
 
 public class AlgoJobsBasicNumTheory5 {
 
-    public static int[][] gMatrix;
-
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
-        gMatrix = new int[n][n];
+        int[] list = new int[n];
+        int num = 0;
 
         for (int i=0; i<n; i++) {
-            for (int j=0; j<4; j++) {
-                gMatrix[i][j] = scan.nextInt();
-            }
+            list[i] = scan.nextInt();
         }
 
-        int[] result = new int[n];
-        for (int i=0; i<n; i++) {
-            if (i < n-1) {
-                result[i] =(((sumRow(i) - sumRow(i+1)) / 2) + gMatrix[i][i+1]) / 2;
-            } else {
-                result[i] = gMatrix[i][0] - result[0];
-            }
+        for (int i=0; i<3; i++) {
+            num = scan.nextInt();
         }
 
-        for (int i=0; i<n; i++) {
-            System.out.print(result[i] + " ");
+        int diff = list[1] - num;
+        int a = ((diff/2) + list[2]) / 2;
+
+        System.out.print(a + " ");
+        for (int i=1; i<n; i++) {
+            System.out.print((list[i] - a) + " ");
         }
-    }
-
-    public static int sumRow(int idx) {
-        int sum = 0;
-
-        for (int i=0; i< gMatrix[idx].length; i++) {
-            sum += gMatrix[idx][i];
-        }
-
-        return sum;
     }
 
 }
