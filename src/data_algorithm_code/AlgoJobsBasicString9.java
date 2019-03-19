@@ -33,25 +33,47 @@ public class AlgoJobsBasicString9 {
         String aBigNumber = scan.nextLine();
         String bBigNumber = scan.nextLine();
 
-        int max = Math.max(aBigNumber.length(), bBigNumber.length());
-        char[] a = attachZero(aBigNumber, max);
-        char[] b = attachZero(bBigNumber, max);
+        int flag = compare(aBigNumber, bBigNumber);
+        char[] max;
+        char[] min;
 
+
+        int maxLen = Math.max(aBigNumber.length(), bBigNumber.length());
+        if (flag >= 0) {
+            // 양수 결과
+            max = attachZero(aBigNumber, maxLen);
+            min = attachZero(bBigNumber, maxLen);
+        } else {
+            // 음수 결과
+            max = attachZero(bBigNumber, maxLen);
+            min = attachZero(aBigNumber, maxLen);
+            System.out.print("-");
+        }
+
+        char[] result = subBigNum(max, min);
+
+        if (isZero(result)) {
+            System.out.print(0);
+        } else {
+
+            for (int i=0; i<result.length; i++) {
+                if (!(i == 0 && result[i] == 0)) {
+                    System.out.print((int)result[i]);
+                }
+            }
+        }
+
+
+    }
+
+    public static boolean isZero(char[] a) {
+        int count =0;
         for (int i=0; i<a.length; i++) {
-            System.out.print(a[i]-48);
+            if (a[i] == 0) {
+               count++;
+            }
         }
-        System.out.println("");
-        for (int i=0; i<b.length; i++) {
-            System.out.print(b[i]-48);
-        }
-        System.out.println("");
-
-//        char[] result = subBigNum(a,b);
-//
-//        for (int i=0; i<result.length; i++) {
-//            System.out.print((int)result[i]);
-//        }
-
+        return count == a.length? true : false;
     }
 
     public static char[] subBigNum(char[] a, char[] b) {
@@ -73,6 +95,15 @@ public class AlgoJobsBasicString9 {
         }
 
         return result;
+    }
+
+    public static int compare(String a, String b) {
+        if (a.length() == b.length()) {
+            return a.compareTo(b);
+        } else {
+            return a.length() > b.length() ? 1 : -1;
+        }
+
     }
 
     public static char[] attachZero(String numStr, int max) {

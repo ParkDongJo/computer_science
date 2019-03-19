@@ -28,8 +28,11 @@ public class AlgoJobsBasicString5 {
         String longStr = scan.nextLine();
         String shortStr = scan.nextLine();
 
-        char[] lCharArr = longStr.toCharArray();
-        char[] sCharArr = shortStr.toCharArray();
+        char[] lCharArr = new char[1001];
+        char[] sCharArr = new char[1001];
+
+        lCharArr = longStr.toCharArray();
+        sCharArr = shortStr.toCharArray();
 
         int equalCnt = 0;
         String result = "NO";
@@ -38,8 +41,11 @@ public class AlgoJobsBasicString5 {
             if (lCharArr[i] == sCharArr[0]) {
 
                 for (int j=0; j<sCharArr.length; j++) {
-                    if (lCharArr[j+i] == sCharArr[j]) {
-                        equalCnt++;
+                    try {
+                        if (lCharArr[i+j] == sCharArr[j]) {
+                            equalCnt++;
+                        }
+                    } catch(Exception e) {
                     }
                 }
 
