@@ -35,8 +35,8 @@ public class AlgoJobsAdvanceBruteForce1 {
      */
 
     public static int n, r;
-    public static char[] result = new char[11];
-    public static boolean[] checked = new boolean[11];
+    public static char[] result = new char[30];
+    public static boolean[] checked = new boolean[30];
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
@@ -70,9 +70,7 @@ public class AlgoJobsAdvanceBruteForce1 {
 
     public static void printResult(char[] arr) {
         for (int i=0; i<r; i++) {
-            if ((int) arr[i] != 0) {
-                System.out.print(String.valueOf(arr[i]));
-            }
+            System.out.print(String.valueOf(arr[i]));
         }
         System.out.println("");
     }

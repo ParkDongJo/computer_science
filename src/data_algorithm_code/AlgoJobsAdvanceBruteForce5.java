@@ -57,7 +57,10 @@ public class AlgoJobsAdvanceBruteForce5 {
         if (x >= n-1) {
             if (isSumZero()) {
                 count++;
-                print();
+
+                if (count <= 20) {
+                    print();
+                }
             }
             return;
         } else {
@@ -79,14 +82,20 @@ public class AlgoJobsAdvanceBruteForce5 {
             // 뒤에서 부터 숫자 꺼내기
             // . 연산자 대응
             if (tmp != 0) {
-                num = Long.parseLong( cows[i]+ "" +tmp);
+                try {
+                    num = Long.parseLong( cows[i]+ "" +tmp);
+                } catch (NumberFormatException e) {
+                    sum = -2;
+                    tmp = 0;
+                    break;
+                }
                 tmp = 0;
             } else {
                 num = cows[i];
             }
 
             // 연산자 꺼내기
-            char e = list.get(i-1);
+            char e = list.get((n-i)-1);
             if (e == '+') {
                 sum += num;
             } else if(e == '-') {
@@ -110,7 +119,7 @@ public class AlgoJobsAdvanceBruteForce5 {
     public static void print() {
         for (int i=0; i<n-1; i++) {
             System.out.print(cows[i]);
-            char e = list.get(i);
+            char e = list.get(list.size()-1-i);
             System.out.print(" " +e + " ");
         }
         System.out.println(n);

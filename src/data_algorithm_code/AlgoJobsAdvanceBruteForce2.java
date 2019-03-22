@@ -35,43 +35,64 @@ public class AlgoJobsAdvanceBruteForce2 {
      0101
      0011
      */
-    public static int n, r;
-    public static int[] result;
-    public static int oneCnt = 0;
+    public static int n, k;
+    public static int[] binary = new int[40];
+//    public static int[] result;
+//    public static int oneCnt = 0;
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         n = scan.nextInt();
-        r = scan.nextInt();
+        k = scan.nextInt();
 
-        int[] bitArr = new int[n];
-        printBinary(bitArr,0);
+        printBinaryVer2(0,0);
+
+//        int[] bitArr = new int[n];
+//        printBinary(bitArr,0);
     }
 
-    public static void printBinary(int[] bitArr, int idx) {
-        if (idx >= n) {
-            if (oneCnt == r) {
-                printResult(bitArr);
-            }
-        } else {
+//    public static void printBinary(int[] bitArr, int idx) {
+//        if (idx >= n) {
+//            if (oneCnt == r) {
+//                printResult(bitArr);
+//            }
+//        } else {
+//
+//            for (int i=1; i>=0; i--) {
+//                if (i == 1) {
+//                    oneCnt++;
+//                }
+//                bitArr[idx] = i;
+//                printBinary(bitArr, idx+1);
+//
+//                if (i == 1) {
+//                    oneCnt--;
+//                }
+//            }
+//        }
+//    }
 
-            for (int i=1; i>=0; i--) {
-                if (i == 1) {
-                    oneCnt++;
-                }
-                bitArr[idx] = i;
-                printBinary(bitArr, idx+1);
-
-                if (i == 1) {
-                    oneCnt--;
-                }
-            }
+    public static void printBinaryVer2(int idx, int one) {
+        if (one == k) {
+            printResult();
+            return;
         }
-    }
+        if (idx == n) {
+            return;
+        }
 
-    public static void printResult(int[] bitArr) {
+        binary[idx] = 1;
+        printBinaryVer2(idx+1, one + 1);
+        binary[idx] = 0;
+
+        binary[idx] = 0;
+        printBinaryVer2(idx+1, one);
+        binary[idx] = 0;
+
+    }
+    public static void printResult() {
         for (int i=0; i<n; i++) {
-            System.out.print(bitArr[i]);
+            System.out.print(binary[i]);
         }
         System.out.println("");
     }
