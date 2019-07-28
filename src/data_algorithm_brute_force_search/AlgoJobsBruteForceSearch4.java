@@ -1,9 +1,5 @@
 package data_algorithm_code;
 
-
-import com.sun.tools.javac.util.ArrayUtils;
-
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class AlgoJobsBruteForceSearch4 {

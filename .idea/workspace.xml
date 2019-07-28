@@ -2,39 +2,219 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdb6af9e-c1da-4c3b-9191-0b71ec833944" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/data_algorithm_basic/NumberBasic.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/data_algorithm_basic/RecursiveBasic.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/data_algorithm_basic/StringBasic.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/data_algorithm_binary_search/BinarySearchWhile.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBinarySearch1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBinarySearch2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBinarySearch3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBinarySearch4.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/data_algorithm_dfs_bfs/Bfs.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/data_algorithm_dfs_bfs/Dfs.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/data_structure_sort_upgrade/MergeSortVer1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/data_structure_sort_upgrade/QuickSortVer1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/data_structure_sort_upgrade/QuickSortVer2.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce1.class" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce2.class" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce5.class" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce5.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx9012.class" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx9012.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaekjoonEx9012.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsAdvanceBruteForce1.java" afterPath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsAdvanceBruteForce1.java" />
-      <change beforePath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsAdvanceBruteForce2.java" afterPath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsAdvanceBruteForce2.java" />
-      <change beforePath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsAdvanceBruteForce5.java" afterPath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsAdvanceBruteForce5.java" />
-      <change beforePath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory1.java" afterPath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory1.java" />
-      <change beforePath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory2.java" afterPath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory2.java" />
-      <change beforePath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory3.java" afterPath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory3.java" />
-      <change beforePath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory4.java" afterPath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory4.java" />
-      <change beforePath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory5.java" afterPath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory5.java" />
-      <change beforePath="$PROJECT_DIR$/src/data_algorithm_code/BaeckjoonEx9012.java" afterPath="$PROJECT_DIR$/src/data_algorithm_code/BaeckjoonEx9012.java" />
-      <change beforePath="$PROJECT_DIR$/src/data_algorithm_code/BaekjoonEx9012.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/MainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/DataStructBasic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/DataStructBasic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/ForBasic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/ForBasic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/NumberBasic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/NumberBasic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/RecursiveBasic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/RecursiveBasic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/SortBasic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/SortBasic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/StringBasic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/StringBasic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_binary_search/AVLNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_binary_search/AVLNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_binary_search/AVLTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_binary_search/AVLTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_binary_search/AVLTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_binary_search/AVLTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_binary_search/BinarySearchRecrusive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_binary_search/BinarySearchRecrusive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_binary_search/BinarySearchWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_binary_search/BinarySearchWhile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce5_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce5_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBinarySearch1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBinarySearch1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBinarySearch2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBinarySearch2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBinarySearch3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBinarySearch3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBinarySearch4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBinarySearch4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch10$King.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch10$King.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch10$Rook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch10$Rook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch15$E.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch15$E.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsMergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsMergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsMultiLoop1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsMultiLoop1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsMultiLoop2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsMultiLoop2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsMultiLoop3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsMultiLoop3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsMultiLoop4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsMultiLoop4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsQuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsQuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsRecursiveFunc1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsRecursiveFunc1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsRecursiveFunc2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsRecursiveFunc2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsRecursiveFunc3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsRecursiveFunc3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsSpecial1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsSpecial1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsSpecial2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsSpecial2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsSpecial3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsSpecial3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsTimeComplex1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsTimeComplex1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsVariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsVariable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1000.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1000.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1001.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1001.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1002.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1002.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1003.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1003.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10039.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10039.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1008.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1008.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1065.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1065.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10809.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10809.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10817.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10817.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10828$Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10828$Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10828.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10828.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10871.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10871.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1110.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1110.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1152.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1152.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1157.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1157.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx11654.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx11654.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx11720.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx11720.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx11721.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx11721.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1181$WordComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1181$WordComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1181.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1181.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1193.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1193.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1316.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1316.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1546.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1546.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1874.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1874.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1924.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1924.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1991.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1991.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2108.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2108.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2438.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2438.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2439.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2439.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2440.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2440.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2441.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2441.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2448.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2448.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2577.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2577.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2667.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2667.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2675.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2675.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2739.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2739.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2741.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2741.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2748.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2748.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2750.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2750.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2751.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2751.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2751_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2751_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2839.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2839.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2908.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2908.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2920.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2920.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2941.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2941.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx4344.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx4344.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx4673.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx4673.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx5622.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx5622.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx8393.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx8393.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx8958.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx8958.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx9012.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx9012.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx9498.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx9498.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaekjoonEx1967.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaekjoonEx1967.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BeackjoonEx10998.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BeackjoonEx10998.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BeackjoonEx1427.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BeackjoonEx1427.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BeackjoonEx2178.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BeackjoonEx2178.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BeackjoonEx2292.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BeackjoonEx2292.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/CodeForce_1A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/CodeForce_1A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/CodeForce_1B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/CodeForce_1B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/CodeForce_2A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/CodeForce_2A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/KaiEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/KaiEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/ProgramersGreedyGym.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/ProgramersGreedyGym.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/StockPrice$Stock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/StockPrice$Stock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/StockPrice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/StockPrice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dfs_bfs/Bfs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dfs_bfs/Bfs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dfs_bfs/Dfs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dfs_bfs/Dfs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dijkstra/Dijkstra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dijkstra/Dijkstra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dijkstra/DijkstraByQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dijkstra/DijkstraByQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dijkstra/Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dijkstra/Edge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dijkstra/MaxComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dijkstra/MaxComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_mst/Kruscal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_mst/Kruscal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_mst/Prim.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_mst/Prim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/Divisor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/Divisor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/Eratos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/Eratos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/Euclid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/Euclid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/Prime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/Prime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/PrimeFactorization$Prime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/PrimeFactorization$Prime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/PrimeFactorization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/PrimeFactorization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/Recursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/RecursionBF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/RecursionBF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/RecursionBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/RecursionBinary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/RecursionPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/RecursionPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/RecursionPower.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/RecursionPower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/RecursionSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/RecursionSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/ParentNullException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/ParentNullException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/RB_Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/RB_Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/RedBlackNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/RedBlackNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/RedBlackTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/RedBlackTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/RedBlackTree_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/RedBlackTree_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/_README_RED_BLACK_TREE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_bag/Bag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_bag/Bag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_graph/GraphArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_graph/GraphArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_graph/GraphLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_graph/GraphLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_graph/Vertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_graph/Vertex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_hash/Hash.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_hash/Hash.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_heap/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_heap/Heap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_linked_list/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_linked_list/DoubleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_linked_list/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_linked_list/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_linked_list/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_linked_list/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_queue/ArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_queue/ArrayQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_queue/LinkedQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_queue/LinkedQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort/BubbleMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort/BubbleMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort/CounterSortMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort/CounterSortMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort/InsertionMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort/InsertionMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort/SelectionMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort/SelectionMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort/SortAlgorithmAll.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort/SortAlgorithmAll.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort_upgrade/MergeSortVer1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort_upgrade/MergeSortVer1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort_upgrade/MergeSortVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort_upgrade/MergeSortVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort_upgrade/QuickSortVer1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort_upgrade/QuickSortVer1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort_upgrade/QuickSortVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort_upgrade/QuickSortVer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_stack/ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_stack/ArrayStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_stack/LinkedStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_stack/LinkedStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_tree/ArrayBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_tree/ArrayBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBruteForceSearch4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBruteForceSearch4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_algorithm_code/ProgramersGreedyGym.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_code/ProgramersGreedyGym.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,140 +249,73 @@
     <option name="GROUP_SCHEMA" value="true" />
     <option name="GROUP_CONTENTS" value="false" />
     <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
     <expand />
     <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="computer_science" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6866002">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="AlgoJobsBasicNumTheory5.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory5.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="380">
-                  <caret line="38" column="56" lean-forward="false" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="AlgoJobsBasicNumTheory6.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory6.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-77">
-                  <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="AlgoJobsBasicNumTheory7.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory7.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-494">
-                  <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="AlgoJobsBasicNumTheory8.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory8.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-358">
-                  <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="AlgoJobsBasicNumTheory9.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory9.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="68">
-                  <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="AlgoJobsBasicNumTheory10.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory10.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-453">
-                  <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="AlgoJobsBasicNumTheory11.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory11.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="7">
-                  <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="AlgoJobsBasicNumTheory12.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory12.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-628">
-                  <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="AlgoJobsBasicNumTheory13.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory13.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-551">
-                  <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="AlgoJobsBasicNumTheory14.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory14.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-856">
-                  <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="NumberBasic.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/data_algorithm_basic/NumberBasic.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="68">
-                  <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/CodingInterView1_3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/ProgramersGreedyGym.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_structure_linked_list/LinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1116">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_structure_linked_list/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/CodeForce_2A.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="9" selection-start-line="9" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Singleton" />
         <option value="Class" />
       </list>
     </option>
@@ -221,20 +334,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsRecursiveFunc1.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsRecursiveFunc2.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_recursion/RecursionPower.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_recursion/RecursionSum.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_recursion/RecursionBinary.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_recursion/RecursionPalindrome.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_recursion/RecursionDigitSum.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_recursion/RecursionBF1.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_recursion/RecursionBF.java" />
@@ -280,14 +382,14 @@
         <option value="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory1.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory4.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory5.java" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_code/CodingInterView2_1.java" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_code/Test.java" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_code/ProgramersGreedyGym.java" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBruteForceSearch4.java" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_code/CodingInterView1_3.java" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_code/CodingInterView2_3.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
@@ -295,30 +397,17 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="47" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="88" />
     <option name="y" value="23" />
-    <option name="width" value="1233" />
-    <option name="height" value="777" />
+    <option name="width" value="1592" />
+    <option name="height" value="947" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -335,128 +424,37 @@
               <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
               <item name="computer_science" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_algorithm_basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_algorithm_binary_search" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_algorithm_brute_force_search" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="data_algorithm_code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_algorithm_dfs_bfs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_algorithm_divide_and_quanquer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_algorithm_mst" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_algorithm_number_theory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_algorithm_recursion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure_hash" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure_heap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure_linked_list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure_queue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure_sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure_sort_upgrade" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure_stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure_tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/parkdongjo/Documents/Computer/computer_science/src/data_algorithm_code/AlgoJobsBasicString10.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.19245283" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/parkdongjo/Documents/Computer/computer_science/src/data_algorithm_code/AlgoJobsBasicString10.java" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="data_algorithm_basic" />
       <recent name="data_algorithm_code" />
+      <recent name="data_algorithm_basic" />
       <recent name="data_structure_sort_upgrade" />
       <recent name="data_structure_upgrade_sort" />
       <recent name="data_algorithm_recursion" />
@@ -481,122 +479,116 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayBasic">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
+  <component name="RunManager" selected="Application.CodingInterView2_3">
+    <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="AlgoJobsBinarySearch4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_code.AlgoJobsBinarySearch4" />
+      <module name="computer_science" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="data_algorithm_code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="data_algorithm_code.AlgoJobsBinarySearch4" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="computer_science" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="AlgoJobsVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_code.AlgoJobsVariable" />
+      <module name="computer_science" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="data_algorithm_code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="data_algorithm_code.AlgoJobsVariable" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="computer_science" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="ArrayBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_basic.ArrayBasic" />
+      <module name="computer_science" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="data_algorithm_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="data_algorithm_basic.ArrayBasic" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="computer_science" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="Bfs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+    <configuration name="CodingInterView2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_code.CodingInterView2_3" />
+      <module name="computer_science" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_algorithm_dfs_bfs.*" />
+          <option name="PATTERN" value="data_algorithm_code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="data_algorithm_dfs_bfs.Bfs" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="computer_science" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="StringBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_basic.StringBasic" />
+      <module name="computer_science" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="data_algorithm_basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="data_algorithm_basic.StringBasic" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="computer_science" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <setting name="vmparams" value="" />
@@ -605,313 +597,16 @@
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
       <setting name="depsClasspath" value="false" />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="EXTRA_OPTIONS" value="" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
-        <option name="GAPID_ENABLED" value="false" />
-        <option name="GAPID_DISABLE_PCS" value="false" />
-        <option name="SUPPORT_LIB_ENABLED" value="true" />
-        <option name="INSTRUMENTATION_ENABLED" value="true" />
-      </Profilers>
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="computer_science" />
-      <envs />
-      <method />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="filePath" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
@@ -919,55 +614,75 @@
       <option name="passParentEnvs" value="true" />
       <option name="workingDirectory" />
       <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <module name="" />
-      <envs />
-      <method />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
-      <method />
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
       <arguments />
       <envs />
+      <method v="2" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Bfs" />
-      <item index="1" class="java.lang.String" itemvalue="Application.AlgoJobsBinarySearch4" />
-      <item index="2" class="java.lang.String" itemvalue="Application.AlgoJobsVariable" />
-      <item index="3" class="java.lang.String" itemvalue="Application.StringBasic" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ArrayBasic" />
+    <list>
+      <item itemvalue="Application.AlgoJobsBinarySearch4" />
+      <item itemvalue="Application.AlgoJobsVariable" />
+      <item itemvalue="Application.StringBasic" />
+      <item itemvalue="Application.ArrayBasic" />
+      <item itemvalue="Application.CodingInterView2_3" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ArrayBasic" />
-        <item index="1" class="java.lang.String" itemvalue="Application.StringBasic" />
-        <item index="2" class="java.lang.String" itemvalue="Application.AlgoJobsVariable" />
-        <item index="3" class="java.lang.String" itemvalue="Application.AlgoJobsBinarySearch4" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Bfs" />
+      <list>
+        <item itemvalue="Application.CodingInterView2_3" />
+        <item itemvalue="Application.ArrayBasic" />
+        <item itemvalue="Application.StringBasic" />
+        <item itemvalue="Application.AlgoJobsVariable" />
+        <item itemvalue="Application.AlgoJobsBinarySearch4" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -1028,11 +743,24 @@
       <workItem from="1553156122743" duration="7767000" />
       <workItem from="1553177668126" duration="131000" />
       <workItem from="1553177802384" duration="5478000" />
+      <workItem from="1556000085262" duration="470000" />
+      <workItem from="1556006261293" duration="3864000" />
+      <workItem from="1556027649642" duration="3219000" />
+      <workItem from="1556088121064" duration="474000" />
+      <workItem from="1556124298301" duration="137000" />
+      <workItem from="1556155750080" duration="1678000" />
+      <workItem from="1556414975291" duration="2078000" />
+      <workItem from="1556460431272" duration="752000" />
+      <workItem from="1557382698505" duration="367000" />
+      <workItem from="1557422882885" duration="133000" />
+      <workItem from="1557593913109" duration="10000" />
+      <workItem from="1557649616153" duration="291000" />
+      <workItem from="1560157134987" duration="859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="606759000" />
+    <option name="totallyTimeSpent" value="621091000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1044,49 +772,89 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="23" width="1241" height="777" extended-state="6" />
+    <frame x="88" y="23" width="1592" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3240469" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2404692" sideWeight="0.5029387" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2521994" sideWeight="0.49706128" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="RNConsole" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2468724" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.49338374" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.49338374" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40469208" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.50661623" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22193548" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49706128" weight="0.252042" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40469208" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32991204" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5029387" side_tool="true" weight="0.2404692" />
+      <window_info anchor="bottom" id="RNConsole" order="8" />
+      <window_info anchor="bottom" id="Tail" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32991204" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.17969662" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32322055" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32960597" />
+      <window_info anchor="right" id="SciView" order="5" sideWeight="0.49338374" />
+      <window_info anchor="right" id="Properties" order="6" />
+      <window_info anchor="right" id="Database" order="7" sideWeight="0.49338374" weight="0.32905984" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.50661623" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="11" />
+      <window_info anchor="right" id="Maven" order="12" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2226,135 +1994,18 @@
           <option name="timeStamp" value="372" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="377" />
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/BaeckjoonEx9012.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_dfs_bfs/Bfs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="23" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_dfs_bfs/Dfs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_dfs_bfs/_README_ALGORITHM.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_binary_search/BinarySearchWhile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_binary_search/BinarySearchRecrusive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBinarySearch3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="13" lean-forward="false" selection-start-line="61" selection-start-column="12" selection-end-line="65" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBinarySearch4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="81" column="23" lean-forward="false" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsSpecial3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorith_basic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorith_basic.java" />
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_binary_search/AVLTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_basic/RecursiveBasic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_basic/SortBasic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_basic/ForBasic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding />
+          <caret line="3" column="21" selection-start-line="3" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -2362,15 +2013,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
           <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicString2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -2378,30 +2027,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicString3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-138">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_basic/DataStructBasic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          <folding />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicString4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
-          <caret line="45" column="55" lean-forward="false" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
+          <caret line="45" column="55" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
           <folding>
             <element signature="e#788#796#0" expanded="true" />
           </folding>
@@ -2412,249 +2051,302 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="47" column="48" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicString5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-566">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicString7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-398">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicString8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="733">
-          <caret line="47" column="36" lean-forward="false" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="36" />
-          <folding />
+          <caret line="47" column="36" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_basic/StringBasic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="55" column="57" lean-forward="false" selection-start-line="55" selection-start-column="57" selection-end-line="55" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/stream/IntStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="363" column="42" lean-forward="false" selection-start-line="363" selection-start-column="33" selection-end-line="363" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_basic/ArrayBasic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/stream/IntStream.java" />
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-739">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-383">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="19" />
-          <folding />
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="76" column="39" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-          <folding />
+          <caret line="76" column="39" selection-start-line="76" selection-end-line="77" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-232">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-283">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-363">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray11.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12">
-          <caret line="44" column="41" lean-forward="false" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_basic/NumberBasic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
+          <caret line="44" column="41" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
-          <caret line="32" column="2" lean-forward="false" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
-          <folding />
+          <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
-          <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding />
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-857">
-          <caret line="52" column="9" lean-forward="false" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
-          <folding />
+          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="38" column="56" lean-forward="false" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
-          <folding />
+        <state relative-caret-position="646">
+          <caret line="38" column="56" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-77">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-494">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-358">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-453">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-628">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory13.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-551">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory14.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-856">
-          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="-61">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_basic/SortBasic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_basic/RecursiveBasic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_basic/NumberBasic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_basic/ForBasic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_basic/ArrayBasic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_basic/StringBasic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="60" column="19" lean-forward="true" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_basic/DataStructBasic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/CodingInterView2_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="88" column="15" lean-forward="true" selection-start-line="88" selection-start-column="15" selection-end-line="88" selection-end-column="15" />
+          <folding>
+            <element signature="e#1973#1974#0" expanded="true" />
+            <element signature="e#2036#2037#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBruteForceSearch4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/CodingInterView1_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/ProgramersGreedyGym.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_linked_list/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1116">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_linked_list/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/CodeForce_2A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="9" selection-start-line="9" selection-end-line="10" />
         </state>
       </provider>
     </entry>
