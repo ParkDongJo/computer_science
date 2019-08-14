@@ -45,11 +45,13 @@ public class CodilityOddOccurrencesInArray {
         일일이 정렬 알고리즘을 짤 필요도 없고
         내부적으로 빠른 시간복잡도를 가진다.
 
+        ----------------------------------------------
         int [] arr = { ... }
         Arrays.sort(arr)
 
         Integer [] arr = { ... }
         Arrays.sort(arr, Collections.reverseOrder())
+        ----------------------------------------------
 
 
         java util의 sort()의 시간복잡도는 아래의 설명과 같다.
@@ -63,6 +65,14 @@ public class CodilityOddOccurrencesInArray {
         For that reason, whenever you need a sorted array,
         it’s better to use a non-primitive if your array is huge and may contain nearly sorted sequences.
         [참고] - https://www.quora.com/What-is-the-complexity-of-Arrays-sort-in-java-Also-why-isn%E2%80%99t-it-as-efficient-as-quick-sort-in-C-or-C++
+
+     */
+
+    /*
+        [ 생각의 핵심 ]
+        짝이 없는 수를 찾는 다면,
+        중복된 수를 모아두고 처음부터 끝까지 돌면서 숫자를 세고 짝수, 홀수를 비교하자
+        만약 홀수가 나온다면 짝이 없는 수이다.
 
      */
 
