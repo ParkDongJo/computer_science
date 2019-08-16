@@ -2,216 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdb6af9e-c1da-4c3b-9191-0b71ec833944" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/MainClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/DataStructBasic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/DataStructBasic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/ForBasic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/ForBasic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/NumberBasic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/NumberBasic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/RecursiveBasic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/RecursiveBasic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/SortBasic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/SortBasic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/StringBasic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_basic/StringBasic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_binary_search/AVLNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_binary_search/AVLNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_binary_search/AVLTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_binary_search/AVLTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_binary_search/AVLTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_binary_search/AVLTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_binary_search/BinarySearchRecrusive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_binary_search/BinarySearchRecrusive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_binary_search/BinarySearchWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_binary_search/BinarySearchWhile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce5_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsAdvanceBruteForce5_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsArray9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicNumTheory9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBasicString9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBinarySearch1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBinarySearch1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBinarySearch2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBinarySearch2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBinarySearch3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBinarySearch3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBinarySearch4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBinarySearch4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch10$King.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch10$King.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch10$Rook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch10$Rook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch15$E.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch15$E.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsBruteForceSearch9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsMergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsMergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsMultiLoop1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsMultiLoop1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsMultiLoop2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsMultiLoop2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsMultiLoop3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsMultiLoop3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsMultiLoop4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsMultiLoop4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsQuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsQuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsRecursiveFunc1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsRecursiveFunc1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsRecursiveFunc2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsRecursiveFunc2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsRecursiveFunc3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsRecursiveFunc3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsSpecial1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsSpecial1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsSpecial2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsSpecial2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsSpecial3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsSpecial3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsTimeComplex1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsTimeComplex1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsVariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/AlgoJobsVariable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1000.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1000.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1001.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1001.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1002.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1002.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1003.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1003.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10039.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10039.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1008.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1008.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1065.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1065.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10809.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10809.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10817.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10817.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10828$Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10828$Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10828.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10828.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10871.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx10871.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1110.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1110.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1152.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1152.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1157.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1157.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx11654.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx11654.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx11720.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx11720.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx11721.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx11721.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1181$WordComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1181$WordComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1181.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1181.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1193.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1193.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1316.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1316.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1546.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1546.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1874.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1874.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1924.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1924.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1991.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx1991.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2108.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2108.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2438.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2438.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2439.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2439.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2440.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2440.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2441.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2441.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2448.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2448.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2577.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2577.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2667.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2667.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2675.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2675.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2739.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2739.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2741.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2741.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2748.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2748.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2750.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2750.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2751.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2751.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2751_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2751_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2839.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2839.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2908.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2908.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2920.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2920.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2941.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx2941.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx4344.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx4344.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx4673.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx4673.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx5622.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx5622.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx8393.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx8393.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx8958.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx8958.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx9012.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx9012.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx9498.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaeckjoonEx9498.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaekjoonEx1967.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BaekjoonEx1967.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BeackjoonEx10998.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BeackjoonEx10998.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BeackjoonEx1427.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BeackjoonEx1427.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BeackjoonEx2178.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BeackjoonEx2178.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BeackjoonEx2292.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/BeackjoonEx2292.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/CodeForce_1A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/CodeForce_1A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/CodeForce_1B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/CodeForce_1B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/CodeForce_2A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/CodeForce_2A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/KaiEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/KaiEx.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/ProgramersGreedyGym.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/ProgramersGreedyGym.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/StockPrice$Stock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/StockPrice$Stock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/StockPrice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_code/StockPrice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dfs_bfs/Bfs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dfs_bfs/Bfs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dfs_bfs/Dfs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dfs_bfs/Dfs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dijkstra/Dijkstra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dijkstra/Dijkstra.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dijkstra/DijkstraByQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dijkstra/DijkstraByQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dijkstra/Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dijkstra/Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dijkstra/MaxComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_dijkstra/MaxComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_mst/Kruscal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_mst/Kruscal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_mst/Prim.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_mst/Prim.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/Divisor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/Divisor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/Eratos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/Eratos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/Euclid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/Euclid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/Prime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/Prime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/PrimeFactorization$Prime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/PrimeFactorization$Prime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/PrimeFactorization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/PrimeFactorization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/Recursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/RecursionBF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/RecursionBF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/RecursionBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/RecursionBinary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/RecursionPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/RecursionPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/RecursionPower.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/RecursionPower.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/RecursionSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_recursion/RecursionSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/ParentNullException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/ParentNullException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/RB_Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/RB_Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/RedBlackNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/RedBlackNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/RedBlackTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/RedBlackTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/RedBlackTree_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/RedBlackTree_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_red_black_tree/_README_RED_BLACK_TREE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_bag/Bag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_bag/Bag.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_graph/GraphArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_graph/GraphArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_graph/GraphLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_graph/GraphLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_graph/Vertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_graph/Vertex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_hash/Hash.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_hash/Hash.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_heap/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_heap/Heap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_linked_list/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_linked_list/DoubleLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_linked_list/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_linked_list/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_linked_list/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_linked_list/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_queue/ArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_queue/ArrayQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_queue/LinkedQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_queue/LinkedQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort/BubbleMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort/BubbleMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort/CounterSortMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort/CounterSortMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort/InsertionMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort/InsertionMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort/SelectionMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort/SelectionMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort/SortAlgorithmAll.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort/SortAlgorithmAll.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort_upgrade/MergeSortVer1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort_upgrade/MergeSortVer1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort_upgrade/MergeSortVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort_upgrade/MergeSortVer2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort_upgrade/QuickSortVer1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort_upgrade/QuickSortVer1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort_upgrade/QuickSortVer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_sort_upgrade/QuickSortVer2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_stack/ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_stack/ArrayStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_stack/LinkedStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_stack/LinkedStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_structure_tree/ArrayBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_structure_tree/ArrayBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBruteForceSearch4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBruteForceSearch4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_algorithm_code/ProgramersGreedyGym.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_code/ProgramersGreedyGym.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_algorithm_binary_search/BeackjoonEx1654.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_binary_search/BeackjoonEx1654.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -265,20 +57,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/CodingInterView1_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="180">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/ProgramersGreedyGym.java">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityOddOccurrencesInArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+            <state relative-caret-position="936">
+              <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersMockTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="936">
+              <caret line="53" selection-start-line="53" selection-end-line="55" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_binary_search/BeackjoonEx1654.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_binary_search/AlgoJobsBinarySearch1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="56" column="34" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_binary_search/AlgoJobsBinarySearch4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="44" selection-start-line="44" selection-end-line="46" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -337,7 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/data_algorithm_recursion/RecursionDigitSum.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_recursion/RecursionBF1.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_recursion/RecursionBF.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsAdvanceBruteForce.java" />
@@ -388,6 +215,7 @@
         <option value="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBruteForceSearch4.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_code/CodingInterView1_3.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_code/CodingInterView2_3.java" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_binary_search/BeackjoonEx1654.java" />
       </list>
     </option>
   </component>
@@ -397,10 +225,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="88" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="457" />
     <option name="y" value="23" />
-    <option name="width" value="1592" />
+    <option name="width" value="1223" />
     <option name="height" value="947" />
   </component>
   <component name="ProjectView">
@@ -408,6 +236,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -424,14 +253,13 @@
               <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
               <item name="computer_science" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_algorithm_code" type="462c0819:PsiDirectoryNode" />
+              <item name="data_algorithm_binary_search" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -443,8 +271,11 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -479,23 +310,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CodingInterView2_3">
+  <component name="RunManager" selected="Application.BeackjoonEx1654">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AlgoJobsBinarySearch4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_algorithm_code.AlgoJobsBinarySearch4" />
-      <module name="computer_science" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="data_algorithm_code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -521,6 +338,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="data_algorithm_basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeackjoonEx1654" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_binary_search.BeackjoonEx1654" />
+      <module name="computer_science" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_algorithm_binary_search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -668,19 +499,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.AlgoJobsBinarySearch4" />
       <item itemvalue="Application.AlgoJobsVariable" />
       <item itemvalue="Application.StringBasic" />
       <item itemvalue="Application.ArrayBasic" />
       <item itemvalue="Application.CodingInterView2_3" />
+      <item itemvalue="Application.BeackjoonEx1654" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BeackjoonEx1654" />
         <item itemvalue="Application.CodingInterView2_3" />
         <item itemvalue="Application.ArrayBasic" />
         <item itemvalue="Application.StringBasic" />
         <item itemvalue="Application.AlgoJobsVariable" />
-        <item itemvalue="Application.AlgoJobsBinarySearch4" />
       </list>
     </recent_temporary>
   </component>
@@ -756,11 +587,14 @@
       <workItem from="1557593913109" duration="10000" />
       <workItem from="1557649616153" duration="291000" />
       <workItem from="1560157134987" duration="859000" />
+      <workItem from="1565756775494" duration="101000" />
+      <workItem from="1565757051774" duration="397000" />
+      <workItem from="1565910496706" duration="5896000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="621091000" />
+    <option name="totallyTimeSpent" value="627485000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -772,10 +606,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="88" y="23" width="1592" height="947" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="947" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22193548" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21733822" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -783,9 +617,10 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Image Layers" order="7" />
+      <window_info id="aws.explorer" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49706128" weight="0.252042" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49706128" visible="true" weight="0.25146198" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40469208" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -795,7 +630,7 @@
       <window_info anchor="bottom" id="Tail" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32991204" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.17969662" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32322055" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.322807" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -2001,242 +1836,36 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/data_algorith_basic.java" />
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_binary_search/AVLTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="3" column="21" selection-start-line="3" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsVariable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicString2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicString1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicString3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-138">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicString4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="45" column="55" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
-          <folding>
-            <element signature="e#788#796#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicString6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="47" column="48" lean-forward="true" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicString5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-566">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicString7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-398">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicString8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="733">
-          <caret line="47" column="36" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicString3.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicString4.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicString6.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicString5.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicString7.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicString8.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/src.zip!/java/util/stream/IntStream.java" />
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-739">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-383">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="38" column="19" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="76" column="39" selection-start-line="76" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-232">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-283">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-363">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="44" column="41" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="2" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-857">
-          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="56" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray2.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray3.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray4.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray5.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray6.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray7.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray9.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray10.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray11.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory3.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory2.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory1.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory4.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory5.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory6.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory7.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory8.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory9.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory10.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory11.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory12.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory13.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory14.java" />
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_basic/SortBasic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -2308,24 +1937,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBruteForceSearch4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBruteForceSearch4.java" />
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/ProgramersGreedyGym.java" />
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/CodingInterView1_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/ProgramersGreedyGym.java">
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityOddOccurrencesInArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        <state relative-caret-position="936">
+          <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -2347,6 +1971,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="9" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersMockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="53" selection-start-line="53" selection-end-line="55" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_binary_search/AlgoJobsBinarySearch4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="44" selection-start-line="44" selection-end-line="46" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_binary_search/AlgoJobsBinarySearch1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="56" column="34" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_binary_search/BeackjoonEx1654.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
         </state>
       </provider>
     </entry>
