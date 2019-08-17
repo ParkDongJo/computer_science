@@ -121,4 +121,29 @@ public class ProgramersFuncDev {
 
         return list.stream().mapToInt(i->i).toArray();
     }
+
+    /*
+        코드가 훨씬 간결하다.
+        java 8 이상부터 가능한 접근인 듯 한데, java8 이상의 변화내용을 한번 볼 필요는 있는것 같다.
+
+        어째든 대부분의 큐,스텍 문제는 꼭 자료구조를 이용하지 않더라도 풀이가 가능하다.
+
+        다만 아래의 코드는 코드상으로는 매우 간결하지만,
+        사실 성능상으로는 비효율적인 면이 없지 않아 있다.
+        특히, 어떠한 input 값이 들어와도 최소 100번의 반복문의 타야한다는 점이다.
+        마지막에 dayOfend[] 배열을 어떠한 경우이든 모두 돌게하는 코드가 그러하다.
+     */
+    public static int[] bestSolution(int[] progresses, int[] speeds) {
+        int[] dayOfend = new int[100];
+        int day = -1;
+        for(int i=0; i<progresses.length; i++) {
+            while(progresses[i] + (day*speeds[i]) < 100) {
+                day++;
+            }
+            dayOfend[day]++;
+        }
+        return Arrays.stream(dayOfend).filter(i -> i!=0).toArray();
+    }
 }
+
+
