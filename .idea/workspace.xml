@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdb6af9e-c1da-4c3b-9191-0b71ec833944" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/data_algorithm_sort_upgrade/ProgramersFindMax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/Eratos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/computer_science/data_algorithm_number_theory/Eratos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_algorithm_number_theory/Eratos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_number_theory/Eratos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_algorithm_sort/CounterSortMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_algorithm_sort_upgrade/MergeSortVer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_sort_upgrade/MergeSortVer2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,41 +61,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_structure_queue/ProgramersFuncDev.java">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersFindPrime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-417">
-              <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/Euclid.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/Eratos.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="20" column="47" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="47" />
+            <state relative-caret-position="322">
+              <caret line="166" column="16" selection-start-line="166" selection-start-column="16" selection-end-line="166" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1282#1291#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersFindPrime.java">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/ProgramersFindMax.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="55" column="37" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
+            <state relative-caret-position="396">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersMockTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="42" selection-start-line="42" selection-end-line="57" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/MergeSortVer1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="526">
+              <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/MergeSortVer2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="542">
+              <caret line="44" selection-start-line="44" selection-end-line="88" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="559">
+              <caret line="70" column="35" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,55 +121,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/PrimeFactorization.java">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/QuickSortVer2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/Divisor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_binary_search/AlgoJobsBinarySearch4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="44" selection-start-line="44" selection-end-line="46" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_structure_linked_list/LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1116">
-              <caret line="68" selection-start-line="68" selection-end-line="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_structure_linked_list/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/CodeForce_2A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="9" selection-start-line="9" selection-end-line="10" />
+            <state relative-caret-position="440">
+              <caret line="56" column="40" lean-forward="true" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -182,9 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsSpecial2.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsSpecial3.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsAdvanceBruteForce3.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsSpecial1.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsAdvanceBruteForce4.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsAdvanceBruteForce1.java" />
@@ -233,6 +204,9 @@
         <option value="$PROJECT_DIR$/src/data_algorithm_number_theory/Eratos.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_number_theory/ProgramersFindPrime.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersFindPrime.java" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_sort_upgrade/MergeSortVer2.java" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_sort_upgrade/ProgramersFindMax.java" />
       </list>
     </option>
   </component>
@@ -254,6 +228,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -270,25 +245,30 @@
               <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
               <item name="computer_science" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_algorithm_binary_search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="data_algorithm_brute_force_search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
               <item name="computer_science" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure_queue" type="462c0819:PsiDirectoryNode" />
+              <item name="data_algorithm_sort" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
               <item name="computer_science" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure_stack" type="462c0819:PsiDirectoryNode" />
+              <item name="data_algorithm_sort_upgrade" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -339,20 +319,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProgramersFindPrime">
+  <component name="RunManager" selected="Application.ProgramersFindMax">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_algorithm_basic.ArrayBasic" />
+    <configuration name="AlgoJobsMergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_code.AlgoJobsMergeSort" />
       <module name="computer_science" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_algorithm_basic.*" />
+          <option name="PATTERN" value="data_algorithm_code.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,20 +354,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CodingInterView2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_algorithm_code.CodingInterView2_3" />
-      <module name="computer_science" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="data_algorithm_code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Eratos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="data_algorithm_number_theory.Eratos" />
       <module name="computer_science" />
@@ -395,6 +361,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="data_algorithm_brute_force_search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramersFindMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_sort_upgrade.ProgramersFindMax" />
+      <module name="computer_science" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_algorithm_sort_upgrade.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -528,19 +508,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayBasic" />
-      <item itemvalue="Application.CodingInterView2_3" />
       <item itemvalue="Application.BeackjoonEx1654" />
       <item itemvalue="Application.Eratos" />
       <item itemvalue="Application.ProgramersFindPrime" />
+      <item itemvalue="Application.AlgoJobsMergeSort" />
+      <item itemvalue="Application.ProgramersFindMax" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProgramersFindMax" />
+        <item itemvalue="Application.AlgoJobsMergeSort" />
         <item itemvalue="Application.ProgramersFindPrime" />
         <item itemvalue="Application.Eratos" />
         <item itemvalue="Application.BeackjoonEx1654" />
-        <item itemvalue="Application.CodingInterView2_3" />
-        <item itemvalue="Application.ArrayBasic" />
       </list>
     </recent_temporary>
   </component>
@@ -619,12 +599,13 @@
       <workItem from="1565756775494" duration="101000" />
       <workItem from="1565757051774" duration="397000" />
       <workItem from="1565910496706" duration="5896000" />
-      <workItem from="1566108117160" duration="9618000" />
+      <workItem from="1566108117160" duration="10469000" />
+      <workItem from="1566205634639" duration="9359000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="637798000" />
+    <option name="totallyTimeSpent" value="648008000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -639,7 +620,7 @@
     <frame x="0" y="23" width="1680" height="947" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21978022" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22222222" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -650,7 +631,7 @@
       <window_info id="aws.explorer" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49706128" visible="true" weight="0.25146198" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49706128" visible="true" weight="0.25146198" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40467837" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1852,6 +1833,78 @@
           <properties />
           <option name="timeStamp" value="380" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="381" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="382" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="383" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="384" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="385" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="386" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="387" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="389" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="390" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="391" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="392" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/data_algorithm_code/BaeckjoonEx2448.java</url>
           <line>52</line>
@@ -1890,16 +1943,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray2.java" />
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray3.java" />
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray4.java" />
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray5.java" />
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray6.java" />
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray7.java" />
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray9.java" />
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray10.java" />
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsArray11.java" />
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory3.java" />
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory2.java" />
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory1.java" />
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory4.java" />
@@ -2021,6 +2064,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_queue/ProgramersFuncDev.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/Euclid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/Eratos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="47" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/PrimeFactorization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="15" selection-start-line="11" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/Divisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_binary_search/AlgoJobsBinarySearch4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
@@ -2049,59 +2130,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/Euclid.java">
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersFindPrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="166" column="16" selection-start-line="166" selection-start-column="16" selection-end-line="166" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort/CounterSortMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/Divisor.java">
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort/InsertionMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/QuickSortVer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsQuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort/BubbleMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/MergeSortVer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/QuickSortVer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="56" column="40" lean-forward="true" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/MergeSortVer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="44" selection-start-line="44" selection-end-line="88" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersMockTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="55" column="62" lean-forward="true" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="62" />
+        <state relative-caret-position="101">
+          <caret line="42" selection-start-line="42" selection-end-line="57" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/PrimeFactorization.java">
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/Eratos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="20" column="47" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1282#1291#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_queue/ProgramersFuncDev.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-417">
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersFindPrime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="55" column="37" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
+        <state relative-caret-position="559">
+          <caret line="70" column="35" selection-start-line="70" selection-start-column="35" selection-end-line="70" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/ProgramersFindMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>

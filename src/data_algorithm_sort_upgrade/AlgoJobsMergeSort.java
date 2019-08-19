@@ -1,5 +1,6 @@
 package data_algorithm_code;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class AlgoJobsMergeSort {
@@ -21,9 +22,66 @@ public class AlgoJobsMergeSort {
     -1 2 2 3 4 5 7 8 9 10
 
      */
+    public static int n = 0;
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
+        n = scan.nextInt();
+        int[] array = new int[n];
+        for (int i=0; i<n; i++) {
+            array[i] = scan.nextInt();
+        }
 
+        mergeSort(array, 0, array.length-1);
+        System.out.println(Arrays.toString(array));
     }
+
+    public static void mergeSort(int[] arr, int start, int end) {
+
+        if (start >= end) {
+            return;
+        }
+        int mid = (start + end) / 2;
+
+        mergeSort(arr, start, mid);
+        mergeSort(arr, mid + 1, end);
+
+        merge(arr, start, mid, mid + 1, end);
+    }
+
+    public static void merge(int[] arr, int start1, int end1, int start2, int end2) {
+        int cursor1, cursor2;
+        int[] temp = new int[n];
+        int idx = 0;
+
+        cursor1 = start1;
+        cursor2 = start2;
+
+        while (cursor1 <= end1 && cursor2 <= end2) {
+            if (arr[cursor1] <= arr[cursor2]) {
+                temp[idx++] = arr[cursor1];
+                cursor1++;
+            } else {
+                temp[idx++] = arr[cursor2];
+                cursor2++;
+            }
+        }
+
+        if (cursor1 <= end1) {
+            for (int i=cursor1; i<=end1; i++) {
+                temp[idx++] = arr[i];
+            }
+        }
+
+        if (cursor2 <= end2) {
+            for (int i=cursor2; i<=end2; i++) {
+                temp[idx++] = arr[i];
+            }
+        }
+
+        for (int i=start1; i<=end2; i++) {
+            arr[i] = temp[i-start1];
+        }
+    }
+
 }

@@ -52,28 +52,37 @@ public class MergeSortVer2 {
 
         while (cursor1 <= end1 && cursor2 <= end2) {
 
+            // sort 또는 reverse 제어는 해당 코드를 변경하면 된다.
+
+            // 앞 배열의 cursor1의 값이 작으면 앞에 정렬
             if (arr[cursor1] <= arr[cursor2]) {
                 temp[idx++] = arr[cursor1];
                 cursor1++;
             } else {
+                // 뒤 배열의 cursor2의 값이 작으면 앞에 정렬
                 temp[idx++] = arr[cursor2];
                 cursor2++;
             }
 
         }
 
+        // 앞 배열에 잔여 값이 있다면
+        // 남은 모든 수를 정렬
         if (cursor1 <= end1) {
             for (int i=cursor1; i<=end1; i++) {
                 temp[idx++] = arr[i];
             }
         }
 
+        // 뒤 배열에 잔여 값이 있다면
+        // 남은 모든 수를 정렬
         if (cursor2 <= end2) {
             for (int i=cursor2; i<=end2; i++) {
                 temp[idx++] = arr[i];
             }
         }
 
+        // 배열의 정렬을 deep copy로 바꿔준다.
         for (int i=start1; i<=end2; i++) {
             arr[i] = temp[i-start1];
         }
