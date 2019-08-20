@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdb6af9e-c1da-4c3b-9191-0b71ec833944" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/data_algorithm_sort_upgrade/ProgramersFindMax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_algorithm_sort/CounterSortMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_algorithm_sort_upgrade/MergeSortVer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_sort_upgrade/MergeSortVer2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_algorithm_binary_search/BeackjoonEx1654.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_binary_search/BeackjoonEx1654.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,11 +69,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/ProgramersFindMax.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="504">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_binary_search/BeackjoonEx1654.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -124,7 +130,7 @@
         <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/QuickSortVer2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="440">
-              <caret line="56" column="40" lean-forward="true" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+              <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -199,7 +205,6 @@
         <option value="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBruteForceSearch4.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_code/CodingInterView1_3.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_code/CodingInterView2_3.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_binary_search/BeackjoonEx1654.java" />
         <option value="$PROJECT_DIR$/src/data_structure_queue/ProgramersFuncDev.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_number_theory/Eratos.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_number_theory/ProgramersFindPrime.java" />
@@ -207,6 +212,7 @@
         <option value="$PROJECT_DIR$/src/data_algorithm_sort_upgrade/MergeSortVer2.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_sort_upgrade/ProgramersFindMax.java" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_binary_search/BeackjoonEx1654.java" />
       </list>
     </option>
   </component>
@@ -246,12 +252,6 @@
               <item name="computer_science" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="data_algorithm_binary_search" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_algorithm_brute_force_search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
@@ -319,7 +319,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProgramersFindMax">
+  <component name="RunManager" selected="Application.BeackjoonEx1654">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -516,11 +516,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BeackjoonEx1654" />
         <item itemvalue="Application.ProgramersFindMax" />
         <item itemvalue="Application.AlgoJobsMergeSort" />
         <item itemvalue="Application.ProgramersFindPrime" />
         <item itemvalue="Application.Eratos" />
-        <item itemvalue="Application.BeackjoonEx1654" />
       </list>
     </recent_temporary>
   </component>
@@ -600,12 +600,12 @@
       <workItem from="1565757051774" duration="397000" />
       <workItem from="1565910496706" duration="5896000" />
       <workItem from="1566108117160" duration="10469000" />
-      <workItem from="1566205634639" duration="9359000" />
+      <workItem from="1566205634639" duration="14841000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="648008000" />
+    <option name="totallyTimeSpent" value="653490000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -620,7 +620,7 @@
     <frame x="0" y="23" width="1680" height="947" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22222222" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22222222" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -631,7 +631,7 @@
       <window_info id="aws.explorer" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49706128" visible="true" weight="0.25146198" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49706128" visible="true" weight="0.25146198" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40467837" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -2036,13 +2036,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_binary_search/BeackjoonEx1654.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityOddOccurrencesInArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="936">
@@ -2185,7 +2178,7 @@
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/QuickSortVer2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
-          <caret line="56" column="40" lean-forward="true" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+          <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -2215,8 +2208,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort_upgrade/ProgramersFindMax.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="504">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_binary_search/BeackjoonEx1654.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
         </state>
       </provider>
     </entry>
