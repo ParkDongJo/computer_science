@@ -1,7 +1,6 @@
 package data_algorithm_dfs_bfs;
 
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.Stack;
 
 public class Dfs {
     public static void main(String[] args) {
@@ -22,26 +21,46 @@ public class Dfs {
                 { 0, 0, 0, 1, 0, 0 }};
         boolean[] visited = new boolean[6];
 
-        bfs(graph, visited, 0);
+        dfs(graph, visited, 0);
+
     }
 
-    public static void bfs(int[][] a, boolean[] c, int v) {
-        Queue<Integer> q = new LinkedList<>();
-        int n = a.length - 1;
-        q.add(v);
-        c[v] = true;
+    public static void dfs(int[][] arr, boolean[] visited, int vertax) {
+        int n = arr.length - 1;
+        visited[vertax] = true;
+        System.out.print((vertax+1) + " ");
 
-        while (!q.isEmpty()) {
-            v = q.poll();
-            System.out.print(v + " ");
-
-            for (int i = 1; i <= n; i++) {
-                if (a[v][i] == 1 && !c[i]) {
-                    q.add(i);
-                    c[i] = true;
-                }
+        for (int i = 0; i <= n; i++) {
+            if (arr[vertax][i] == 1 && !visited[i]) {
+                dfs(arr, visited, i);
             }
         }
     }
 
+    public static void dfsByStack(int[][] arr, boolean[] visited, int vertax, boolean flag) {
+        Stack<Integer> stack = new Stack<>();
+        int n = arr.length - 1;
+        stack.push(vertax);
+        visited[vertax] = true;
+        System.out.print(vertax + " ");
+
+        while (!stack.isEmpty()) {
+            int vv = stack.peek();
+            flag = false;
+
+            for (int i = 1; i <= n; i++) {
+                if (arr[vv][i] == 1 && !visited[i]) {
+                    stack.push(i);
+                    System.out.print(i + " ");
+                    visited[i] = true;
+                    flag = true;
+                    break;
+                }
+            }
+
+            if (!flag) {
+                stack.pop();
+            }
+        }
+    }
 }
