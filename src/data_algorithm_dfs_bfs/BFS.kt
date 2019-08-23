@@ -1,6 +1,6 @@
 package data_algorithm_dfs_bfs
 
-import data_structure_stack.Queue
+import data_structure_queue.Queue
 
 fun main(args: Array<String>) {
     // 배열로 그래프 표현

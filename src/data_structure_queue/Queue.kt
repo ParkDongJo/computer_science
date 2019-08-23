@@ -1,6 +1,4 @@
-package data_structure_stack
-
-import java.util.Queue
+package data_structure_queue
 
 interface QueueBase {
     fun isEmpty(): Boolean    // 스택이 빈 경우 true 리턴
