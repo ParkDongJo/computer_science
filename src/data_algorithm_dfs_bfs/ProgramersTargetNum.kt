@@ -23,6 +23,16 @@ package data_algorithm_dfs_bfs
     문제에 나온 예와 같습니다.
 
  */
+/*
+    [ 알아두면 좋을 것들 ]
+
+
+ */
+
+/*
+    [ 문제에 대한 해설 ]
+
+ */
 
 fun main(args: Array<String>) {
     println(solution(intArrayOf(1, 1, 1, 1, 1), 3))

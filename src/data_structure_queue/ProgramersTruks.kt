@@ -34,6 +34,20 @@ import java.util.*
     100	100	[10,10,10,10,10,10,10,10,10,10]
  */
 
+/*
+    [ 알아두면 좋을 것들 ]
+    - 코틀린에서 Queue를 구현하고자 할 때 MutableList를 구현해서 만들면 된다.
+    다만, 특정 실행에 따라서 추가적인 작업을 해줘야 할수도 있다.
+
+    MutableList<Int> = mutableListOf()
+
+ */
+
+/*
+    [ 문제에 대한 해설 ]
+
+ */
+
 fun main(args: Array<String>) {
 //    println(solution(2, 10, intArrayOf(7,4,5,6)))
 //    println(solution(100, 100, intArrayOf(10)))

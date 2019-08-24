@@ -25,6 +25,21 @@ public class ProgramersFindPandY {
      'p'의 개수 1개, 'y'의 개수 2개로 다르므로 false를 return 합니다.
 
      */
+    /*
+        [ 알아두면 좋을 것들 ]
+        - Java에서 string의 분리는 StringBuilder 내장 객체를 사용하는 것이 좋다.
+        StringBuilder sb = new StringBuilder(s);
+
+
+        - StringBuild의 결과값을 char 형태로 뽑고자 할때
+        sb.charAt(i)
+
+     */
+
+    /*
+        [ 문제에 대한 해설 ]
+
+     */
 
     public static void main(String[] args) {
         System.out.println(solution("pPoooyY"));

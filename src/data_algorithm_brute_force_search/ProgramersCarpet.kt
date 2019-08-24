@@ -24,6 +24,16 @@ import java.util.*
         8	1	[3, 3]
         24	24	[8, 6]
      */
+/*
+    [ 알아두면 좋을 것들 ]
+
+
+ */
+
+/*
+    [ 문제에 대한 해설 ]
+
+ */
 
 fun main(args: Array<String>) {
     println ("main")

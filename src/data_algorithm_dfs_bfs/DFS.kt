@@ -22,7 +22,7 @@ fun main(args: Array<String>) {
     )
     var visited: Array<Boolean> = Array(6, { i-> false})
 
-    dfs(graph, visited, 0)
+    dfsByStack(graph, visited, 0)
 
     println()
 
@@ -30,7 +30,7 @@ fun main(args: Array<String>) {
     dfsByStack(graph, visited, 0)
 }
 
-fun dfs(matrix: Array<Array<Int>>,
+fun dfsRecur(matrix: Array<Array<Int>>,
         visited: Array<Boolean>,
         cursor: Int) {
 
@@ -39,7 +39,7 @@ fun dfs(matrix: Array<Array<Int>>,
 
     for ((i) in matrix.withIndex()) {
         if (matrix[cursor][i] == 1 && !visited[i]){
-            dfs(matrix, visited, i)
+            dfsRecur(matrix, visited, i)
         }
     }
 }

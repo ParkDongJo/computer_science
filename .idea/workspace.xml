@@ -3,8 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="fdb6af9e-c1da-4c3b-9191-0b71ec833944" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_algorithm_dfs_bfs/BFS.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_dfs_bfs/BFS.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure_stack/Queue.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_queue/Queue.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersCarpet.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersCarpet.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersNextNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersNextNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_algorithm_dfs_bfs/DFS.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_dfs_bfs/DFS.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_algorithm_dfs_bfs/ProgramersTargetNum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_dfs_bfs/ProgramersTargetNum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_algorithm_string/ProgramersDigitPlus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_string/ProgramersDigitPlus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_algorithm_string/ProgramersFindPandY.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_string/ProgramersFindPandY.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_algorithm_string/ProgramersMidChar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_string/ProgramersMidChar.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_algorithm_string/ProgramersStringSort.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_string/ProgramersStringSort.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure_queue/ProgramersTruks.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure_queue/ProgramersTruks.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,50 +70,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_structure_graph/GraphList.kt">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersMockTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="772">
-              <caret line="67" selection-start-line="67" selection-end-line="78" selection-end-column="5" />
+            <state relative-caret-position="188">
+              <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_structure_queue/Queue.kt">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersNextNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="27" />
+            <state relative-caret-position="291">
+              <caret line="29" selection-start-line="29" selection-end-line="38" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersCarpet.kt">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/ProgramersReverseArr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="628">
-              <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/Programers124Num.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+            <state relative-caret-position="263">
+              <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
               <folding>
-                <element signature="e#115#116#0" expanded="true" />
-                <element signature="e#143#144#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_structure_queue/ProgramersTruks.kt">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersFindPrime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+            <state relative-caret-position="2115">
+              <caret line="162" column="17" selection-start-line="162" selection-start-column="17" selection-end-line="162" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,17 +114,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersMidChar.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+            <state relative-caret-position="225">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_dfs_bfs/ProgramersTargetNum.kt">
+        <entry file="file://$PROJECT_DIR$/src/data_structure_queue/ProgramersTruks.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="68" column="29" lean-forward="true" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
+            <state relative-caret-position="231">
+              <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersFindPandY.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersDigitPlus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersStrMaxMin.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" selection-start-line="18" selection-end-line="31" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -132,26 +159,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersStringSort.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/PrimeFactorization.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="11" column="19" selection-start-line="11" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_dfs_bfs/DFS.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" selection-start-line="4" selection-end-line="30" selection-end-column="1" />
+            <state relative-caret-position="252">
+              <caret line="14" selection-start-line="14" selection-end-line="23" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -184,10 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBinarySearch4.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsVariable.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_basic/RecursiveBasic.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_basic/SortBasic.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_basic/ForBasic.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_basic/DataStructBasic.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_basic/StringBasic.java" />
@@ -212,29 +217,33 @@
         <option value="$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_sort_upgrade/ProgramersFindMax.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_binary_search/BeackjoonEx1654.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_string/ProgramersDigitPlus.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersNextNum.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_array/ProgramersReverseArr.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_string/ProgramersFindPandY.java" />
         <option value="$PROJECT_DIR$/src/data_structure_graph/GraphList_v2.java" />
         <option value="$PROJECT_DIR$/src/data_structure_graph/GraphList.kt" />
         <option value="$PROJECT_DIR$/src/data_structure_graph/GraphArray.kt" />
         <option value="$PROJECT_DIR$/src/data_structure_stack/Stack.kt" />
         <option value="$PROJECT_DIR$/src/data_structure_stack/Queue.kt" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_dfs_bfs/DFS.kt" />
         <option value="$PROJECT_DIR$/src/data_algorithm_dfs_bfs/Dfs.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_dfs_bfs/Bfs.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_dfs_bfs/BFS.kt" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersCarpet.kt" />
         <option value="$PROJECT_DIR$/src/data_algorithm_number_theory/Programers124Num.kt" />
         <option value="$PROJECT_DIR$/src/data_algorithm_number_theory/Programers123Num.java" />
         <option value="$PROJECT_DIR$/src/data_structure_queue/Queue.kt" />
         <option value="$PROJECT_DIR$/src/data_algorithm_number_theory/Programers124Num.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_string/ProgramersStringReverse.kt" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_string/ProgramersStringSort.kt" />
-        <option value="$PROJECT_DIR$/src/data_structure_queue/ProgramersTruks.kt" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_string/ProgramersMidChar.kt" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_number_theory/ProgramersSumPrim.kt" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_number_theory/ProgramersSumBetweenNum.kt" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_dfs_bfs/DFS.kt" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_dfs_bfs/ProgramersNetwork.kt" />
         <option value="$PROJECT_DIR$/src/data_algorithm_dfs_bfs/ProgramersTargetNum.kt" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersCarpet.kt" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersNextNum.java" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_string/ProgramersStringSort.kt" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_string/ProgramersFindPandY.java" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_string/ProgramersMidChar.kt" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_string/ProgramersDigitPlus.java" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_string/ProgramersStrMaxMin.kt" />
+        <option value="$PROJECT_DIR$/src/data_structure_queue/ProgramersTruks.kt" />
       </list>
     </option>
   </component>
@@ -246,7 +255,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1178" />
+    <option name="width" value="1522" />
     <option name="height" value="947" />
   </component>
   <component name="ProjectView">
@@ -255,7 +264,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,7 +280,31 @@
               <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
               <item name="computer_science" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_algorithm_binary_search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="data_algorithm_dfs_bfs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_algorithm_string" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure_queue" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
@@ -284,6 +316,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -337,7 +370,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.data_algorithm_dfs_bfs.ProgramersTargetNumKt">
+  <component name="RunManager" selected="Kotlin.data_algorithm_dfs_bfs.ProgramersNetworkKt">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -394,14 +427,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="data_algorithm_brute_force_search.ProgramersCarpetKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="data_algorithm_dfs_bfs.ProgramersNetworkKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="computer_science" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="data_algorithm_brute_force_search.ProgramersCarpetKt" />
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_dfs_bfs.ProgramersNetworkKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -420,40 +453,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="data_algorithm_string.ProgramersMidCharKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="data_algorithm_number_theory.ProgramersSumBetweenNumKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="computer_science" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="data_algorithm_string.ProgramersMidCharKt" />
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_number_theory.ProgramersSumBetweenNumKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="data_algorithm_string.ProgramersStringSortKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="data_algorithm_number_theory.ProgramersSumPrimKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="computer_science" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="data_algorithm_string.ProgramersStringSortKt" />
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_number_theory.ProgramersSumPrimKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="data_structure_queue.ProgramersTruksKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="data_algorithm_string.ProgramersStrMaxMinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="computer_science" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="data_structure_queue.ProgramersTruksKt" />
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_string.ProgramersStrMaxMinKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -521,19 +554,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.data_algorithm_brute_force_search.ProgramersCarpetKt" />
-      <item itemvalue="Kotlin.data_structure_queue.ProgramersTruksKt" />
-      <item itemvalue="Kotlin.data_algorithm_string.ProgramersStringSortKt" />
-      <item itemvalue="Kotlin.data_algorithm_string.ProgramersMidCharKt" />
       <item itemvalue="Kotlin.data_algorithm_dfs_bfs.ProgramersTargetNumKt" />
+      <item itemvalue="Kotlin.data_algorithm_number_theory.ProgramersSumPrimKt" />
+      <item itemvalue="Kotlin.data_algorithm_number_theory.ProgramersSumBetweenNumKt" />
+      <item itemvalue="Kotlin.data_algorithm_string.ProgramersStrMaxMinKt" />
+      <item itemvalue="Kotlin.data_algorithm_dfs_bfs.ProgramersNetworkKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.data_algorithm_dfs_bfs.ProgramersNetworkKt" />
+        <item itemvalue="Kotlin.data_algorithm_string.ProgramersStrMaxMinKt" />
+        <item itemvalue="Kotlin.data_algorithm_number_theory.ProgramersSumBetweenNumKt" />
+        <item itemvalue="Kotlin.data_algorithm_number_theory.ProgramersSumPrimKt" />
         <item itemvalue="Kotlin.data_algorithm_dfs_bfs.ProgramersTargetNumKt" />
-        <item itemvalue="Kotlin.data_algorithm_string.ProgramersMidCharKt" />
-        <item itemvalue="Kotlin.data_algorithm_string.ProgramersStringSortKt" />
-        <item itemvalue="Kotlin.data_structure_queue.ProgramersTruksKt" />
-        <item itemvalue="Kotlin.data_algorithm_brute_force_search.ProgramersCarpetKt" />
       </list>
     </recent_temporary>
   </component>
@@ -618,12 +651,14 @@
       <workItem from="1566400001817" duration="10354000" />
       <workItem from="1566436431503" duration="8007000" />
       <workItem from="1566467732172" duration="3351000" />
-      <workItem from="1566531810899" duration="9065000" />
+      <workItem from="1566531810899" duration="10125000" />
+      <workItem from="1566633994678" duration="3672000" />
+      <workItem from="1566638195890" duration="4024000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="699691000" />
+    <option name="totallyTimeSpent" value="708447000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -635,10 +670,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1178" height="947" extended-state="0" />
+    <frame x="0" y="23" width="1522" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25880283" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17635135" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -649,8 +684,8 @@
       <window_info id="aws.explorer" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49706128" visible="true" weight="0.25146198" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40467837" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49706128" visible="true" weight="0.25146198" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47368422" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32991204" />
@@ -1925,43 +1960,43 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersNextNum.java</url>
-          <line>24</line>
+          <line>59</line>
           <properties />
           <option name="timeStamp" value="393" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersNextNum.java</url>
-          <line>29</line>
+          <line>64</line>
           <properties />
           <option name="timeStamp" value="394" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersNextNum.java</url>
-          <line>27</line>
+          <line>62</line>
           <properties />
           <option name="timeStamp" value="395" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersNextNum.java</url>
-          <line>10</line>
+          <line>45</line>
           <properties />
           <option name="timeStamp" value="396" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersNextNum.java</url>
-          <line>16</line>
+          <line>51</line>
           <properties />
           <option name="timeStamp" value="397" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersNextNum.java</url>
-          <line>15</line>
+          <line>50</line>
           <properties />
           <option name="timeStamp" value="398" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersNextNum.java</url>
-          <line>12</line>
+          <line>47</line>
           <properties />
           <option name="timeStamp" value="401" />
         </line-breakpoint>
@@ -2057,33 +2092,99 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/data_structure_queue/ProgramersTruks.kt</url>
-          <line>79</line>
+          <line>92</line>
           <properties />
           <option name="timeStamp" value="425" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/data_structure_queue/ProgramersTruks.kt</url>
-          <line>72</line>
+          <line>85</line>
           <properties />
           <option name="timeStamp" value="431" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/data_structure_queue/ProgramersTruks.kt</url>
-          <line>76</line>
+          <line>89</line>
           <properties />
           <option name="timeStamp" value="432" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/data_structure_queue/ProgramersTruks.kt</url>
-          <line>67</line>
+          <line>80</line>
           <properties />
           <option name="timeStamp" value="433" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersMidChar.kt</url>
-          <line>18</line>
+          <line>32</line>
           <properties />
           <option name="timeStamp" value="434" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_number_theory/ProgramersSumPrim.kt</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="435" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_number_theory/ProgramersSumPrim.kt</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="436" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_number_theory/ProgramersSumPrim.kt</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="437" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_number_theory/ProgramersSumPrim.kt</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="438" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_number_theory/ProgramersSumPrim.kt</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="439" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_number_theory/ProgramersSumPrim.kt</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="442" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_number_theory/ProgramersSumPrim.kt</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="443" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_number_theory/ProgramersSumPrim.kt</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="444" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_number_theory/ProgramersSumPrim.kt</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="445" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_dfs_bfs/ProgramersNetwork.kt</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="446" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_dfs_bfs/ProgramersNetwork.kt</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="447" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -2096,42 +2197,6 @@
     <SUITE FILE_PATH="coverage/computer_science$data_structure_queue_ProgramersTruksKt.ic" NAME="data_structure_queue.ProgramersTruksKt Coverage Results" MODIFIED="1566534888868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/ProgramersGreedyGym.java" />
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/CodingInterView1_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_stack/ProgramersTowel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="49" selection-start-line="49" selection-end-line="52" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_binary_search/AlgoJobsBinarySearch1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="56" column="34" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_queue/ProgramersFuncDev.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/Euclid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/Eratos.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -2272,55 +2337,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersNextNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersDigitPlus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" selection-start-line="23" selection-end-line="27" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersMockTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/ProgramersReverseArr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersFindPandY.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data_structure_graph/GraphList_v2.java" />
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersFindPrime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="166" column="16" selection-start-line="166" selection-start-column="16" selection-end-line="166" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data_structure_graph/GraphArray.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -2335,13 +2352,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_stack/Stack.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_dfs_bfs/Bfs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
@@ -2349,13 +2359,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_dfs_bfs/BFS.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -2381,13 +2384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_dfs_bfs/DFS.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" selection-start-line="4" selection-end-line="30" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data_structure_graph/GraphList.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="772">
@@ -2397,14 +2393,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_structure_queue/Queue.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="27" />
+        <state relative-caret-position="468">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/Programers124Num.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="144">
           <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
           <folding>
             <element signature="e#115#116#0" expanded="true" />
@@ -2413,38 +2409,149 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersCarpet.kt">
+    <entry file="file://$PROJECT_DIR$/src/data_structure_stack/Stack.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="628">
-          <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+        <state relative-caret-position="468">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_queue/ProgramersTruks.kt">
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/ProgramersSumPrim.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        <state relative-caret-position="242">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersStringSort.kt">
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/ProgramersSumBetweenNum.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        <state relative-caret-position="36">
+          <caret line="2" column="20" selection-start-line="2" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersMidChar.kt">
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_dfs_bfs/BFS.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        <state relative-caret-position="218">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_dfs_bfs/DFS.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_dfs_bfs/ProgramersNetwork.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="25" selection-start-line="25" selection-end-line="34" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_dfs_bfs/ProgramersTargetNum.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="68" column="29" lean-forward="true" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
+        <state relative-caret-position="301">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_queue/ProgramersFuncDev.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="78" column="7" lean-forward="true" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_stack/ProgramersTowel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="61" column="14" lean-forward="true" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersCarpet.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersMockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersFindPrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2115">
+          <caret line="162" column="17" selection-start-line="162" selection-start-column="17" selection-end-line="162" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersNextNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="29" selection-start-line="29" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/ProgramersReverseArr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersMidChar.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersFindPandY.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersDigitPlus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersStringSort.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" selection-start-line="14" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersStrMaxMin.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" selection-start-line="18" selection-end-line="31" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_structure_queue/ProgramersTruks.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
         </state>
       </provider>
     </entry>

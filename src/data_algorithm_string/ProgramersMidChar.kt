@@ -13,6 +13,20 @@ package data_algorithm_string
     abcde	c
     qwer	we
  */
+/*
+    [ 알아두면 좋을 것들 ]
+    - string을 char[] 형태로 바꾸고자 할때
+    var cArr = s.toCharArray()
+
+    - char형태를 string으로 형변환 하고자 할때 코틀린에서는
+    String(c)
+
+ */
+
+/*
+    [ 문제에 대한 해설 ]
+
+ */
 
 fun main(args: Array<String>) {
     println(solutionOfMidChar("abcde"))

@@ -20,6 +20,16 @@ public class ProgramersDigitPlus {
      입출력 예 #2
      9 + 8 + 7 = 24이므로 24를 return 하면 됩니다.
      */
+    /*
+        [ 알아두면 좋을 것들 ]
+        - Int를 string으로 형변환 하고자 할때
+        String numStr = Integer.toString(n);
+     */
+
+    /*
+        [ 문제에 대한 해설 ]
+
+     */
 
     public static void main(String[] args) {
         System.out.println(solution(123));

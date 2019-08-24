@@ -12,6 +12,16 @@ package data_algorithm_string
     s	return
     Zbcdefg	gfedcbZ
  */
+/*
+    [ 알아두면 좋을 것들 ]
+
+
+ */
+
+/*
+    [ 문제에 대한 해설 ]
+
+ */
 
 fun main(args: Array<String>) {
     println(solution("Zbcdefg"))
