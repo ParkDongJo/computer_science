@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdb6af9e-c1da-4c3b-9191-0b71ec833944" name="Default" comment="" />
+    <list default="true" id="fdb6af9e-c1da-4c3b-9191-0b71ec833944" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotDynamic.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotDynamic.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,18 +62,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_recursion/ProgramersFibonacci.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="27" selection-start-line="27" selection-end-line="38" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/ProgramersGcmAndLcm.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
+            <state relative-caret-position="-37">
               <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
             </state>
           </provider>
@@ -79,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityOddInArray.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="936">
-              <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+            <state relative-caret-position="-82">
+              <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -88,26 +82,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/data_algorithm_recursion/RecursionBF.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="605">
+            <state relative-caret-position="341">
               <caret line="39" column="27" selection-start-line="39" selection-end-line="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotDynamic.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="68" column="44" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
+            <state relative-caret-position="815">
+              <caret line="112" column="1" selection-start-line="99" selection-end-line="112" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/AlgoJobsBasicNumTheory8.java">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotWildcard.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-351">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="354">
+              <caret line="84" column="21" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityArrayRotation.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="52" column="23" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityTimeComplexFrogJmp.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="557">
+              <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -167,9 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory2.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory1.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory4.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_code/AlgoJobsBasicNumTheory5.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_code/CodingInterView2_1.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_code/Test.java" />
@@ -218,6 +227,9 @@
         <option value="$PROJECT_DIR$/src/data_algorithm_array/CodilityOddInArray.kt" />
         <option value="$PROJECT_DIR$/src/data_algorithm_array/AlgoSpotDynamic.kt" />
         <option value="$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotDynamic.kt" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotWildcard.kt" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_array/CodilityArrayRotation.kt" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_array/CodilityTimeComplexFrogJmp.kt" />
       </list>
     </option>
   </component>
@@ -228,8 +240,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="836" />
     <option name="y" value="23" />
-    <option name="width" value="1522" />
+    <option name="width" value="844" />
     <option name="height" value="947" />
   </component>
   <component name="ProjectView">
@@ -254,13 +267,19 @@
               <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
               <item name="computer_science" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_algorithm_divide_and_quanquer" type="462c0819:PsiDirectoryNode" />
+              <item name="data_algorithm_array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
               <item name="computer_science" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="data_algorithm_dynamic_programing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data_algorithm_recursion" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -323,7 +342,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.data_algorithm_dynamic_programing.AlgoSpotDynamicKt">
+  <component name="RunManager" selected="Kotlin.data_algorithm_array.CodilityTimeComplexFrogJmpKt">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -380,6 +399,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="data_algorithm_array.CodilityArrayRotationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="computer_science" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_array.CodilityArrayRotationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="data_algorithm_array.CodilityOddInArrayKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="computer_science" />
       <option name="VM_PARAMETERS" />
@@ -393,14 +425,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="data_algorithm_array.ProgramersDividedNumKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="data_algorithm_array.CodilityTimeComplexFrogJmpKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="computer_science" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="data_algorithm_array.ProgramersDividedNumKt" />
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_array.CodilityTimeComplexFrogJmpKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -419,27 +451,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="data_algorithm_number_theory.ProgramersGcmAndLcmKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="data_algorithm_dynamic_programing.AlgoSpotWildcardKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="computer_science" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="data_algorithm_number_theory.ProgramersGcmAndLcmKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="data_algorithm_recursion.ProgramersFibonacciKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="computer_science" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="data_algorithm_recursion.ProgramersFibonacciKt" />
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_dynamic_programing.AlgoSpotWildcardKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -507,19 +526,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.data_algorithm_array.ProgramersDividedNumKt" />
-      <item itemvalue="Kotlin.data_algorithm_recursion.ProgramersFibonacciKt" />
-      <item itemvalue="Kotlin.data_algorithm_number_theory.ProgramersGcmAndLcmKt" />
       <item itemvalue="Kotlin.data_algorithm_array.CodilityOddInArrayKt" />
       <item itemvalue="Kotlin.data_algorithm_dynamic_programing.AlgoSpotDynamicKt" />
+      <item itemvalue="Kotlin.data_algorithm_dynamic_programing.AlgoSpotWildcardKt" />
+      <item itemvalue="Kotlin.data_algorithm_array.CodilityArrayRotationKt" />
+      <item itemvalue="Kotlin.data_algorithm_array.CodilityTimeComplexFrogJmpKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.data_algorithm_array.CodilityTimeComplexFrogJmpKt" />
+        <item itemvalue="Kotlin.data_algorithm_array.CodilityArrayRotationKt" />
+        <item itemvalue="Kotlin.data_algorithm_dynamic_programing.AlgoSpotWildcardKt" />
         <item itemvalue="Kotlin.data_algorithm_dynamic_programing.AlgoSpotDynamicKt" />
         <item itemvalue="Kotlin.data_algorithm_array.CodilityOddInArrayKt" />
-        <item itemvalue="Kotlin.data_algorithm_number_theory.ProgramersGcmAndLcmKt" />
-        <item itemvalue="Kotlin.data_algorithm_recursion.ProgramersFibonacciKt" />
-        <item itemvalue="Kotlin.data_algorithm_array.ProgramersDividedNumKt" />
       </list>
     </recent_temporary>
   </component>
@@ -607,12 +626,12 @@
       <workItem from="1566531810899" duration="10125000" />
       <workItem from="1566633994678" duration="3672000" />
       <workItem from="1566638195890" duration="4208000" />
-      <workItem from="1566717466169" duration="18805000" />
+      <workItem from="1566717466169" duration="31811000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="727436000" />
+    <option name="totallyTimeSpent" value="740442000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -638,8 +657,8 @@
       <window_info id="aws.explorer" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32865497" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49706128" weight="0.25146198" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.47368422" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49706128" visible="true" weight="0.25146198" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33450294" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32991204" />
@@ -2249,40 +2268,40 @@
           <option name="timeStamp" value="474" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotDynamic.kt</url>
-          <line>80</line>
+          <url>file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotWildcard.kt</url>
+          <line>58</line>
           <properties />
-          <option name="timeStamp" value="476" />
+          <option name="timeStamp" value="506" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotDynamic.kt</url>
-          <line>81</line>
+          <url>file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotWildcard.kt</url>
+          <line>50</line>
           <properties />
-          <option name="timeStamp" value="477" />
+          <option name="timeStamp" value="507" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotDynamic.kt</url>
-          <line>77</line>
+          <url>file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotWildcard.kt</url>
+          <line>59</line>
           <properties />
-          <option name="timeStamp" value="478" />
+          <option name="timeStamp" value="508" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotDynamic.kt</url>
-          <line>78</line>
+          <url>file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotWildcard.kt</url>
+          <line>71</line>
           <properties />
-          <option name="timeStamp" value="479" />
+          <option name="timeStamp" value="509" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotDynamic.kt</url>
-          <line>84</line>
+          <url>file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotWildcard.kt</url>
+          <line>68</line>
           <properties />
-          <option name="timeStamp" value="480" />
+          <option name="timeStamp" value="513" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotDynamic.kt</url>
-          <line>83</line>
+          <url>file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotWildcard.kt</url>
+          <line>70</line>
           <properties />
-          <option name="timeStamp" value="481" />
+          <option name="timeStamp" value="516" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -2295,37 +2314,6 @@
     <SUITE FILE_PATH="coverage/computer_science$data_structure_queue_ProgramersTruksKt.ic" NAME="data_structure_queue.ProgramersTruksKt Coverage Results" MODIFIED="1566534888868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/data_structure_graph/GraphArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_dfs_bfs/Bfs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_graph/GraphLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_dfs_bfs/Dfs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/Programers124Num.kt" />
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/PrimeFactorization.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -2610,20 +2598,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_recursion/ProgramersFibonacci.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="27" selection-start-line="27" selection-end-line="38" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/ProgramersGcmAndLcm.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar!/kotlin/Library.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
@@ -2631,27 +2605,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/img/jumpgame.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_recursion/ProgramersFibonacci.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="27" selection-start-line="27" selection-end-line="38" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/ProgramersGcmAndLcm.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityOddInArray.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        <state relative-caret-position="-82">
+          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_recursion/RecursionBF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
+        <state relative-caret-position="341">
           <caret line="39" column="27" selection-start-line="39" selection-end-line="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/img/jumpgame.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="jar://$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar!/kotlin/ArrayIntrinsics.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotDynamic.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="68" column="44" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
+        <state relative-caret-position="815">
+          <caret line="112" column="1" selection-start-line="99" selection-end-line="112" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotWildcard.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="84" column="21" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityArrayRotation.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="52" column="23" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityTimeComplexFrogJmp.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
         </state>
       </provider>
     </entry>

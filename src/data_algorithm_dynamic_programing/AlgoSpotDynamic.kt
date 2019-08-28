@@ -46,8 +46,9 @@ package data_algorithm_dynamic_programing
     YES
     NO
  */
-var n: Int = 0
+var n: Int = 7
 var board = Array<IntArray>(100, { IntArray(100)})
+var cache = Array<IntArray>(100, { IntArray(100, {i->-1})})
 
 fun main(args: Array<String>) {
 
@@ -56,7 +57,7 @@ fun main(args: Array<String>) {
             intArrayOf(6, 1, 1, 2, 2, 9, 3),
             intArrayOf(7, 2, 3, 2, 1, 3, 1),
             intArrayOf(1, 1, 3, 1, 7, 1, 2),
-            intArrayOf(4, 1, 2, 3, 4, 1, 2),
+            intArrayOf(4, 1, 2, 3, 4, 1, 3),
             intArrayOf(3, 3, 1, 2, 3, 4, 1),
             intArrayOf(1, 5, 2, 9, 4, 7, 0)
     )
@@ -71,16 +72,42 @@ fun main(args: Array<String>) {
 //            intArrayOf(1, 5, 2, 9, 4, 7, 0)
 //    )
 
-    println(jump(0,0))
+//    println(jump(0,0))
+    println(jump2(0,0))
 }
 
-fun jump(y: Int, x: Int): Boolean {
+//fun jump(y: Int, x: Int): Boolean {
+//    if (y >= n || x >= n)
+//        return false
+//
+//    if (y == n-1 && x == n-1)
+//        return true
+//
+//    var jumpSize: Int = board[y][x]
+//    return jump(y+jumpSize, x) || jump(y, x+jumpSize)
+//}
+
+fun jump2(y: Int, x: Int): Int {
     if (y >= n || x >= n)
-        return false
+        return 0
 
     if (y == n-1 && x == n-1)
-        return true
+        return 1
+
+    var ret = cache[y][x]
+    if (ret != -1)
+        return ret
 
     var jumpSize: Int = board[y][x]
-    return jump(y+jumpSize, x) || jump(y, x+jumpSize)
+    ret = (jump2(y+jumpSize, x).toBoolean() || jump2(y, x+jumpSize).toBoolean()).toInt()
+    return ret
+}
+
+
+fun Boolean.toInt(): Int {
+    return if (this) 1 else 0
+}
+
+fun Int.toBoolean(): Boolean {
+    return if(this == 1) true else false
 }
