@@ -61,91 +61,97 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotWildcard.kt">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityMaxCounters.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
+            <state relative-caret-position="364">
+              <caret line="179" column="16" selection-start-line="179" selection-start-column="16" selection-end-line="179" selection-end-column="16" />
+              <folding>
+                <element signature="e#30#1782#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityPermMissingElem.kt">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/PracticeTripleStep.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+            <state relative-caret-position="18">
+              <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/PracticeBinomial.kt">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/PracticeGridRobot.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="288">
+              <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+              <folding>
+                <element signature="e#43#88#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/ProgramersExpressN.kt">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/StockPrice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5">
-              <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+            <state relative-caret-position="72">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityTapeEquilibrium.kt">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/CodingInterView1_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
+            <state relative-caret-position="72">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityPermCheck.kt">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/CodingInterView2_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="72" column="17" lean-forward="true" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
+            <state relative-caret-position="-358">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/CodilityPrefixSum.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1243">
+              <caret line="127" column="26" lean-forward="true" selection-start-line="127" selection-start-column="26" selection-end-line="127" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityFrogRiverOne.kt">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort/CodilityMaxProductOfThree.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="57" column="73" selection-start-line="57" selection-start-column="73" selection-end-line="57" selection-end-column="73" />
+            <state relative-caret-position="389">
+              <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_binary_search/AlgoJobsBinarySearch3.java">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort/CodilityDistinct.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="58" selection-start-line="58" selection-end-line="76" selection-end-column="9" />
+            <state relative-caret-position="-288">
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_structure_stack/Stack.kt">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort/CodilityTriangle.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="49" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/PracticeFibonacci.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="164">
+              <caret line="43" selection-start-line="43" selection-end-line="61" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -178,13 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/data_structure_queue/ProgramersFuncDev.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_number_theory/Eratos.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_number_theory/ProgramersFindPrime.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersFindPrime.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_sort_upgrade/MergeSortVer2.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_sort_upgrade/AlgoJobsMergeSort.java" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_sort_upgrade/ProgramersFindMax.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_binary_search/BeackjoonEx1654.java" />
         <option value="$PROJECT_DIR$/src/data_algorithm_array/ProgramersReverseArr.java" />
         <option value="$PROJECT_DIR$/src/data_structure_graph/GraphList_v2.java" />
@@ -229,6 +228,13 @@
         <option value="$PROJECT_DIR$/src/data_algorithm_array/CodilityTapeEquilibrium.kt" />
         <option value="$PROJECT_DIR$/src/data_algorithm_array/CodilityPermCheck.kt" />
         <option value="$PROJECT_DIR$/src/data_algorithm_array/CodilityFrogRiverOne.kt" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_array/CodilityMaxCounters.kt" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_dynamic_programing/PracticeTripleStep.kt" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_dynamic_programing/PracticeGridRobot.kt" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_string/CodilityPrefixSum.kt" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_sort/CodilityTriangle.kt" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_sort/CodilityDistinct.kt" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_sort/CodilityMaxProductOfThree.kt" />
       </list>
     </option>
   </component>
@@ -238,10 +244,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="836" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="844" />
+    <option name="width" value="1063" />
     <option name="height" value="947" />
   </component>
   <component name="ProjectView">
@@ -249,7 +254,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -266,36 +270,19 @@
               <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
               <item name="computer_science" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_algorithm_array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="data_algorithm_binary_search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
               <item name="computer_science" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_algorithm_dfs_bfs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_algorithm_dynamic_programing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="computer_science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_algorithm_recursion" type="462c0819:PsiDirectoryNode" />
+              <item name="data_algorithm_sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -353,7 +340,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.data_algorithm_array.CodilityFrogRiverOneKt">
+  <component name="RunManager" selected="Kotlin.data_algorithm_sort.CodilityDistinctKt">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -410,66 +397,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="data_algorithm_array.CodilityFrogRiverOneKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="data_algorithm_dynamic_programing.PracticeGridRobotKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="computer_science" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="data_algorithm_array.CodilityFrogRiverOneKt" />
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_dynamic_programing.PracticeGridRobotKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="data_algorithm_array.CodilityPermCheckKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="data_algorithm_sort.CodilityDistinctKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="computer_science" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="data_algorithm_array.CodilityPermCheckKt" />
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_sort.CodilityDistinctKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="data_algorithm_array.CodilityTapeEquilibriumKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="data_algorithm_sort.CodilityMaxProductOfThreeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="computer_science" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="data_algorithm_array.CodilityTapeEquilibriumKt" />
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_sort.CodilityMaxProductOfThreeKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="data_algorithm_dynamic_programing.AlgoSpotWildcardKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="data_algorithm_sort.CodilityTriangleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="computer_science" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="data_algorithm_dynamic_programing.AlgoSpotWildcardKt" />
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_sort.CodilityTriangleKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="data_algorithm_dynamic_programing.ProgramersExpressNKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="data_algorithm_string.CodilityPrefixSumKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="computer_science" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="data_algorithm_dynamic_programing.ProgramersExpressNKt" />
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_string.CodilityPrefixSumKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -537,19 +524,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.data_algorithm_dynamic_programing.AlgoSpotWildcardKt" />
-      <item itemvalue="Kotlin.data_algorithm_dynamic_programing.ProgramersExpressNKt" />
-      <item itemvalue="Kotlin.data_algorithm_array.CodilityTapeEquilibriumKt" />
-      <item itemvalue="Kotlin.data_algorithm_array.CodilityPermCheckKt" />
-      <item itemvalue="Kotlin.data_algorithm_array.CodilityFrogRiverOneKt" />
+      <item itemvalue="Kotlin.data_algorithm_dynamic_programing.PracticeGridRobotKt" />
+      <item itemvalue="Kotlin.data_algorithm_string.CodilityPrefixSumKt" />
+      <item itemvalue="Kotlin.data_algorithm_sort.CodilityMaxProductOfThreeKt" />
+      <item itemvalue="Kotlin.data_algorithm_sort.CodilityDistinctKt" />
+      <item itemvalue="Kotlin.data_algorithm_sort.CodilityTriangleKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.data_algorithm_array.CodilityFrogRiverOneKt" />
-        <item itemvalue="Kotlin.data_algorithm_array.CodilityPermCheckKt" />
-        <item itemvalue="Kotlin.data_algorithm_array.CodilityTapeEquilibriumKt" />
-        <item itemvalue="Kotlin.data_algorithm_dynamic_programing.ProgramersExpressNKt" />
-        <item itemvalue="Kotlin.data_algorithm_dynamic_programing.AlgoSpotWildcardKt" />
+        <item itemvalue="Kotlin.data_algorithm_sort.CodilityDistinctKt" />
+        <item itemvalue="Kotlin.data_algorithm_sort.CodilityTriangleKt" />
+        <item itemvalue="Kotlin.data_algorithm_sort.CodilityMaxProductOfThreeKt" />
+        <item itemvalue="Kotlin.data_algorithm_string.CodilityPrefixSumKt" />
+        <item itemvalue="Kotlin.data_algorithm_dynamic_programing.PracticeGridRobotKt" />
       </list>
     </recent_temporary>
   </component>
@@ -637,12 +624,13 @@
       <workItem from="1566531810899" duration="10125000" />
       <workItem from="1566633994678" duration="3672000" />
       <workItem from="1566638195890" duration="4208000" />
-      <workItem from="1566717466169" duration="58360000" />
+      <workItem from="1566717466169" duration="62306000" />
+      <workItem from="1567120389726" duration="24488000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="766991000" />
+    <option name="totallyTimeSpent" value="795425000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -654,10 +642,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="947" extended-state="6" />
+    <frame x="0" y="23" width="1063" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2026862" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27326152" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -2488,6 +2476,48 @@
           <properties />
           <option name="timeStamp" value="579" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_array/CodilityMaxCounters.kt</url>
+          <line>153</line>
+          <properties />
+          <option name="timeStamp" value="582" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_array/CodilityMaxCounters.kt</url>
+          <line>154</line>
+          <properties />
+          <option name="timeStamp" value="584" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_array/CodilityMaxCounters.kt</url>
+          <line>155</line>
+          <properties />
+          <option name="timeStamp" value="585" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_array/CodilityMaxCounters.kt</url>
+          <line>156</line>
+          <properties />
+          <option name="timeStamp" value="586" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_array/CodilityMaxCounters.kt</url>
+          <line>173</line>
+          <properties />
+          <option name="timeStamp" value="587" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_array/CodilityMaxCounters.kt</url>
+          <line>174</line>
+          <properties />
+          <option name="timeStamp" value="588" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/data_algorithm_array/CodilityMaxCounters.kt</url>
+          <line>180</line>
+          <properties />
+          <option name="timeStamp" value="589" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -2499,79 +2529,6 @@
     <SUITE FILE_PATH="coverage/computer_science$data_structure_queue_ProgramersTruksKt.ic" NAME="data_structure_queue.ProgramersTruksKt Coverage Results" MODIFIED="1566534888868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersCarpet.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersMockTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersFindPrime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2115">
-          <caret line="162" column="17" selection-start-line="162" selection-start-column="17" selection-end-line="162" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/ProgramersNextNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="29" selection-start-line="29" selection-end-line="38" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersMidChar.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_queue/ProgramersFuncDev.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1404">
-          <caret line="78" column="7" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_stack/ProgramersTowel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1098">
-          <caret line="61" column="14" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersFindPandY.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersDigitPlus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersStrMaxMin.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" selection-start-line="18" selection-end-line="31" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersStringSort.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -2788,10 +2745,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_dfs_bfs/Dfs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-263">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/AlgoSpotWildcard.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="1584">
           <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityPermMissingElem.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -2802,6 +2773,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/ProgramersExpressN.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1692">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityTapeEquilibrium.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityPermCheck.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="72" column="17" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityFrogRiverOne.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_binary_search/AlgoJobsBinarySearch3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="58" selection-start-line="58" selection-end-line="76" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/data_structure_stack/Stack.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -2809,52 +2815,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_dfs_bfs/Dfs.java">
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityMaxCounters.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-263">
+        <state relative-caret-position="364">
+          <caret line="179" column="16" selection-start-line="179" selection-start-column="16" selection-end-line="179" selection-end-column="16" />
+          <folding>
+            <element signature="e#30#1782#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/PracticeTripleStep.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/PracticeGridRobot.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <folding>
+            <element signature="e#43#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/StockPrice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityPermMissingElem.kt">
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/CodingInterView1_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_dynamic_programing/ProgramersExpressN.kt">
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_code/CodingInterView2_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5">
-          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+        <state relative-caret-position="-358">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityTapeEquilibrium.kt">
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/CodilityPrefixSum.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
+        <state relative-caret-position="1243">
+          <caret line="127" column="26" lean-forward="true" selection-start-line="127" selection-start-column="26" selection-end-line="127" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_binary_search/AlgoJobsBinarySearch3.java">
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort/CodilityTriangle.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="58" selection-start-line="58" selection-end-line="76" selection-end-column="9" />
+        <state relative-caret-position="164">
+          <caret line="43" selection-start-line="43" selection-end-line="61" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityPermCheck.kt">
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort/CodilityDistinct.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="72" column="17" lean-forward="true" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
+        <state relative-caret-position="-288">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_array/CodilityFrogRiverOne.kt">
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_sort/CodilityMaxProductOfThree.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="57" column="73" selection-start-line="57" selection-start-column="73" selection-end-line="57" selection-end-column="73" />
+        <state relative-caret-position="389">
+          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
         </state>
       </provider>
     </entry>
