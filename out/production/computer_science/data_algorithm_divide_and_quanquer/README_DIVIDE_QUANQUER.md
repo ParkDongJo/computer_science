@@ -1,4 +1,4 @@
-AVL 트리 
+DIVIDE AND QUANQUER
  =====
  #####[INTRO]
  ###DIVIDE AND QUANQUER(분할정복)?
