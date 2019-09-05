@@ -32,7 +32,9 @@ Write a function:
 
 class Solution { public int[] solution(int[] A, int[] B); }
 
-that, given two non-empty arrays A and B of L integers, returns an array consisting of L integers specifying the consecutive answers; position I should contain the number of different ways of climbing the ladder with A[I] rungs modulo 2B[I].
+that, given two non-empty arrays A and B of L integers,
+returns an array consisting of L integers specifying the consecutive answers;
+position I should contain the number of different ways of climbing the ladder with A[I] rungs modulo 2B[I].
 
 For example, given L = 5 and:
 
@@ -51,10 +53,5 @@ each element of array B is an integer within the range [1..30].
  */
 
 fun main(args: Array<String>) {
-
-}
-
-fun solution(A: IntArray, B: IntArray): IntArray {
-    // write your code in Kotlin
 
 }

@@ -22,15 +22,17 @@ public class AlgoJobsMergeSort {
     -1 2 2 3 4 5 7 8 9 10
 
      */
-    public static int n = 0;
+    public static int n = 10;
 
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
-        n = scan.nextInt();
-        int[] array = new int[n];
-        for (int i=0; i<n; i++) {
-            array[i] = scan.nextInt();
-        }
+//        Scanner scan = new Scanner(System.in);
+//        n = scan.nextInt();
+//        int[] array = new int[n];
+//        for (int i=0; i<n; i++) {
+//            array[i] = scan.nextInt();
+//        }
+        int[] array = {10,3,1,5,4,7,9,2,6,8};
+
 
         mergeSort(array, 0, array.length-1);
         System.out.println(Arrays.toString(array));
