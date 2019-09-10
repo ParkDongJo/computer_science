@@ -1,7 +1,7 @@
 package data_algorithm_test.common
 
 fun main(args: Array<String>) {
-
+    val (a, b) = readLine()!!.split(' ').map(String::toInt)
 }
 
 fun binarySearch(arr: IntArray, start: Int, end: Int, value: Int): Int {
