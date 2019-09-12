@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdb6af9e-c1da-4c3b-9191-0b71ec833944" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/data_algorithm_test/test6/Test6.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_algorithm_test/common/BinarySearch.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_test/common/BinarySearch.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_algorithm_test/test1/Test1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_test/test1/Test1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_algorithm_test/test2/Test2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_algorithm_test/test2/Test2.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,17 +75,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/data_algorithm_test/test2/Test2.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
+            <state relative-caret-position="468">
               <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersCustomStringSort.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="59" column="1" lean-forward="true" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+            <state relative-caret-position="414">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_recursion/ProgramersCollatz.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/Programers2016.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="547">
+              <caret line="63" column="19" lean-forward="true" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -168,8 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/data_algorithm_array/CodilityTapeEquilibrium.kt" />
-        <option value="$PROJECT_DIR$/src/data_algorithm_array/CodilityPermCheck.kt" />
         <option value="$PROJECT_DIR$/src/data_algorithm_array/CodilityFrogRiverOne.kt" />
         <option value="$PROJECT_DIR$/src/data_algorithm_array/CodilityMaxCounters.kt" />
         <option value="$PROJECT_DIR$/src/data_algorithm_dynamic_programing/PracticeTripleStep.kt" />
@@ -219,6 +231,8 @@
         <option value="$PROJECT_DIR$/src/data_algorithm_test/test1/Test1.kt" />
         <option value="$PROJECT_DIR$/src/data_algorithm_test/test2/Test2.kt" />
         <option value="$PROJECT_DIR$/src/data_algorithm_string/ProgramersCustomStringSort.kt" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_recursion/ProgramersCollatz.kt" />
+        <option value="$PROJECT_DIR$/src/data_algorithm_brute_force_search/Programers2016.kt" />
       </list>
     </option>
   </component>
@@ -228,9 +242,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1223" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-117" />
+    <option name="y" value="-1057" />
+    <option name="width" value="966" />
     <option name="height" value="947" />
   </component>
   <component name="ProjectView">
@@ -238,6 +253,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -254,14 +271,12 @@
               <item name="computer_science" type="b2602c69:ProjectViewProjectNode" />
               <item name="computer_science" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_algorithm_string" type="462c0819:PsiDirectoryNode" />
+              <item name="data_algorithm_recursion" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -319,37 +334,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.data_algorithm_string.ProgramersCustomStringSortKt">
+  <component name="RunManager" selected="Kotlin.data_algorithm_brute_force_search.Programers2016Kt">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AlgoJobsMergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_algorithm_code.AlgoJobsMergeSort" />
-      <module name="computer_science" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="data_algorithm_code.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuickSortVer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure_sort_upgrade.QuickSortVer2" />
-      <module name="computer_science" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="data_structure_sort_upgrade.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -400,6 +387,32 @@
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="data_algorithm_brute_force_search.Programers2016Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="computer_science" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_brute_force_search.Programers2016Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="data_algorithm_recursion.ProgramersCollatzKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="computer_science" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="data_algorithm_recursion.ProgramersCollatzKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -505,19 +518,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.QuickSortVer2" />
-      <item itemvalue="Application.AlgoJobsMergeSort" />
       <item itemvalue="Kotlin.data_algorithm_test.test1.Test1Kt" />
       <item itemvalue="Kotlin.data_algorithm_test.test2.Test2Kt" />
       <item itemvalue="Kotlin.data_algorithm_string.ProgramersCustomStringSortKt" />
+      <item itemvalue="Kotlin.data_algorithm_recursion.ProgramersCollatzKt" />
+      <item itemvalue="Kotlin.data_algorithm_brute_force_search.Programers2016Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.data_algorithm_brute_force_search.Programers2016Kt" />
+        <item itemvalue="Kotlin.data_algorithm_recursion.ProgramersCollatzKt" />
         <item itemvalue="Kotlin.data_algorithm_string.ProgramersCustomStringSortKt" />
         <item itemvalue="Kotlin.data_algorithm_test.test2.Test2Kt" />
         <item itemvalue="Kotlin.data_algorithm_test.test1.Test1Kt" />
-        <item itemvalue="Application.AlgoJobsMergeSort" />
-        <item itemvalue="Application.QuickSortVer2" />
       </list>
     </recent_temporary>
   </component>
@@ -613,12 +626,14 @@
       <workItem from="1567731870095" duration="480000" />
       <workItem from="1567831760602" duration="18007000" />
       <workItem from="1567853021522" duration="502000" />
-      <workItem from="1568112144023" duration="5676000" />
+      <workItem from="1568112144023" duration="5838000" />
+      <workItem from="1568207545626" duration="2377000" />
+      <workItem from="1568279901709" duration="4970000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="913712000" />
+    <option name="totallyTimeSpent" value="921221000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -630,10 +645,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="947" extended-state="6" />
+    <frame x="-117" y="-1057" width="966" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1935287" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3517316" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -644,7 +659,7 @@
       <window_info id="aws.explorer" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32865497" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49706128" visible="true" weight="0.25614035" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49706128" weight="0.25614035" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36023393" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -2874,20 +2889,6 @@
     <SUITE FILE_PATH="coverage/computer_science$data_structure_queue_ProgramersTruksKt.ic" NAME="data_structure_queue.ProgramersTruksKt Coverage Results" MODIFIED="1566534888868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_number_theory/CodilityMinPerimeterRectangle.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="34" selection-start-line="34" selection-end-line="49" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_structure_queue/Queue.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" selection-start-line="2" selection-end-line="39" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data_structure_stack/Stack.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -3166,6 +3167,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/data_algorithm_test/test1/Test1.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="972">
@@ -3173,6 +3184,20 @@
           <folding>
             <element signature="e#35#74#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_test/test2/Test2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersCustomStringSort.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -3211,27 +3236,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_test/test2/Test2.kt">
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_recursion/ProgramersCollatz.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        <state relative-caret-position="378">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Comparator.java">
+    <entry file="file://$PROJECT_DIR$/src/data_algorithm_brute_force_search/Programers2016.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data_algorithm_string/ProgramersCustomStringSort.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="59" column="1" lean-forward="true" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+        <state relative-caret-position="547">
+          <caret line="63" column="19" lean-forward="true" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
         </state>
       </provider>
     </entry>
