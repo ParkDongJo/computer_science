@@ -23,7 +23,12 @@ a	b	result
 
 fun main(arg: Array<String>) {
     println(calcYoil(2016, 1, 1))
+    println(calcYoil(2016, 5, 1))
     println(calcYoil(2016, 5, 24))
+    println(calcYoil(2016, 5, 31))
+    println(calcYoil(2016, 6, 1))
+    println(calcYoil(2016, 7, 6))
+    println(calcYoil(2016, 6, 30))
     println(calcYoil(2017, 1, 1))
 }
 //
@@ -37,7 +42,7 @@ fun calcYoil(y: Int, m: Int, d: Int): String {
     var days = calcDays(y, m, d)
     if (days == -1) return "NONE"
 
-    return yoils[(days % 7)-1]
+    return yoils[(days % 7)]
 }
 
 fun calcDays(y: Int, m: Int, d: Int): Int {
@@ -58,10 +63,10 @@ fun calcDays(y: Int, m: Int, d: Int): Int {
     // month -> days
     if (isLeap(y)) months[1] += 1
     for (i in 0 until (m-1)) {
-        days += months[i+1]
+        days += months[i]
     }
 
-    return days + d
+    return days + d -1
 }
 
 fun isLeap(y: Int): Boolean {
