@@ -1,3 +1,5 @@
 package data_algorithm_test.common
 
-fun main()
+fun main(args: Array<String>) {
+
+}

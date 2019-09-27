@@ -82,28 +82,40 @@ fun merge(arr: IntArray, start1: Int, end1: Int, start2: Int, end2: Int) {
 
     while (cursor1 <= end1 && cursor2 <= end2) {
         if (arr[cursor1] <= arr[cursor2]) {
-            temp[idx++] = arr[cursor2]
-            cursor2++
+            temp[idx++] = arr[cursor1]
+            cursor1++
         } else {
             temp[idx++] = arr[cursor2]
             cursor2++
         }
+    }
 
-        if (cursor1 <= end1) {
-            for (i in cursor1..end1) {
-                temp[idx++] = arr[i]
-            }
-        }
-
-        if (cursor2 <= end2) {
-            for (i in cursor2..end2) {
-                temp[idx++] = arr[i]
-            }
-        }
-
-        for (i in start1..end2) {
-            arr[i] = temp[i-start1]
+    if (cursor1 <= end1) {
+        for (i in cursor1..end1) {
+            temp[idx++] = arr[i]
         }
     }
 
+    if (cursor2 <= end2) {
+        for (i in cursor2..end2) {
+            temp[idx++] = arr[i]
+        }
+    }
+
+    for (i in start1..end2) {
+        arr[i] = temp[i-start1]
+    }
+
 }
+
+/*
+    선택 정렬
+ */
+
+/*
+    버블 정렬
+ */
+
+/*
+    삽입 정렬
+ */
