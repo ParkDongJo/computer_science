@@ -21,7 +21,35 @@ function isValid(s: string): boolean {
   }
   return stack.length === 0;
 };
+// console.log(isValid('()'));
+// console.log(isValid('()[]{}'));
+// console.log(isValid('(]'));
 
-console.log(isValid('()'));
-console.log(isValid('()[]{}'));
-console.log(isValid('(]'));
+
+// 함수형으로 개선
+const openBrackets = ['(', '{', '['];
+const closeBrackets = [')', '}', ']'];
+
+const isMatch = (open?: string, close?: string): boolean => {
+  if (!open || !close) return false
+  return openBrackets.indexOf(open) === closeBrackets.indexOf(close);
+}
+const isEmpty = (stack: string[]): boolean => stack.length === 0;
+
+function isValidV2(s: string): boolean {
+  const stack: string[] = [];
+  for (const c of s) {
+    if (openBrackets.includes(c)) {
+      stack.push(c);
+      continue;
+    }
+    if (!isMatch(stack.pop(), c)) {
+      return false;
+    }
+  }
+  return isEmpty(stack);
+};
+
+console.log(isValidV2('()'));
+console.log(isValidV2('()[]{}'));
+console.log(isValidV2('(]'));
