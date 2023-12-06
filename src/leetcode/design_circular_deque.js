@@ -1,3 +1,5 @@
+// 참고
+// https://www.geeksforgeeks.org/implementation-deque-using-circular-array/
 /**
  * @param {number} k
  */
