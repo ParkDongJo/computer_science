@@ -9,8 +9,14 @@ const binarySearch = (nums, target) => {
   } else if (nums[midIdx] > target) {
     return binarySearch(nums.slice(0, midIdx), target)
   } else if (nums[midIdx] < target) {
+    
     return nums.length - 1 === midIdx 
-      ? nums[midIdx]
+      ? null
       : binarySearch(nums.slice(midIdx + 1), target)
   }
 }
+
+const nums = [1, 3, 5, 7, 9];
+const target = 10;
+
+console.log(binarySearch(nums, target));

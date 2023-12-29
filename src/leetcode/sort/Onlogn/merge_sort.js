@@ -5,9 +5,9 @@ function merge(left, right) {
 
   while (left.length && right.length) {
     if (left[0] < right[0]) {
-      sortedArr.push(left.shift())
+      sortedArr.push(left.splice(0,1)[0])
     } else {
-      sortedArr.push(right.shift())
+      sortedArr.push(right.splice(0,1)[0])
     }
   }
   return [...sortedArr, ...left, ...right]
@@ -22,3 +22,5 @@ function mergeSort(arr) {
 
   return merge(left, right)
 }
+
+console.log(mergeSort([10, 4, 8, 2, 6, 7, 3]))

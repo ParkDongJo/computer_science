@@ -65,26 +65,31 @@ class binarySearchTree {
     return queue;
   }
 
+  // 전위 순회
   preOrder(root = this.root) {
     if (root === null) return;
 
-    console.log(root.data);
-  
-    preOrder(root.left);
-    preOrder(root.right);
+    console.log(root.value);
+    this.preOrder(root.left);
+    this.preOrder(root.right);
   }
 
-  inOrder(root) {
+  // 중위 순회
+  inOrder(root = this.root) {
     if (root === null) return;
   
-    // goto left
-    inOrder(root.left);
+    this.inOrder(root.left);
+    console.log(root.value);
+    this.inOrder(root.right);
+  }
+
+  // 후위 순회
+  postOrder(root = this.root) {
+    if (root === null) return;
   
-    // print the node data
-    console.log(root.data);
-  
-    // goto right
-    inOrder(root.right);
+    this.postOrder(root.left);
+    this.postOrder(root.right);
+    console.log(root.value);
   }
 }
 
@@ -99,4 +104,8 @@ tree.insert(2);
 
 // console.log(tree.has(8));
 // console.log(tree.has(1));
-console.log(tree.print());
+// console.log(tree.print());
+
+console.log(tree.preOrder());
+console.log(tree.inOrder());
+console.log(tree.postOrder());
