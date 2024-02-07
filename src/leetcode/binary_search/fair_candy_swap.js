@@ -3,6 +3,4 @@
  * @param {number[]} bobSizes
  * @return {number[]}
  */
-var fairCandySwap = function(aliceSizes, bobSizes) {
-    
-};
+var fairCandySwap = function (aliceSizes, bobSizes) {};
