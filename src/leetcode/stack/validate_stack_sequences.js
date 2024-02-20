@@ -21,9 +21,47 @@ var validateStackSequences = function (pushed, popped) {
 
   const stack = [];
 
-  while (true) {
-    let num = pushed;
+  while (pushed.length > 0) {
+    let num = pushed.splice(0, 1)[0];
+    stack.push(num);
+    if (num === popped[0]) {
+      stack.pop();
+      popped.splice(0, 1);
+    }
   }
 
-  return true;
+  console.log(pushed, popped, stack);
+
+  while (stack.length > 0) {
+    const num = stack.pop();
+    if (num === popped[0]) {
+      popped.splice(0, 1);
+    }
+  }
+
+  console.log(pushed, popped, stack);
+
+  return popped.length === 0;
+};
+
+console.log(validateStackSequences([2, 1, 0], [1, 2, 0]));
+// true 가 되어야 하지만,
+// false 가 나온다.
+// 이유는 stack에 데이터가 있고, stack의 top이 popped의 첫번째 요소를 비교하면서 pop을 하지 않는다.
+
+// 55ms
+var validateStackSequences = function (pushed, popped) {
+  let idx = 0;
+  let stack = [];
+
+  for (let num of pushed) {
+    stack.push(num);
+
+    while (stack.length && stack[stack.length - 1] === popped[idx]) {
+      stack.pop();
+      idx++;
+    }
+  }
+
+  return !stack.length;
 };
