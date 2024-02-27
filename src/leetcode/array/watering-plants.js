@@ -29,6 +29,7 @@ var wateringPlants = function (plants, capacity) {
   return step;
 };
 
+// 남이 푼 문제
 // 42ms
 var wateringPlants = function (plants, capacity) {
   let steps = 0;

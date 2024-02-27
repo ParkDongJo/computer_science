@@ -13,6 +13,8 @@
  * @param {number} high
  * @return {number}
  */
+// 211ms 일부러 dfs 로 풀려고 노력한 문제
+// 하지만 오히려 dfs 라기보다는
 var rangeSumBST = function (root, low, high) {
   let sum = 0;
   function dfs(v) {

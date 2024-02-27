@@ -22,6 +22,7 @@ var findContentChildren = function (g, s) {
   return gIdx;
 };
 
+// 57ms
 var findContentChildren = function (g, s) {
   let sortg = g.sort((a, b) => a - b);
   let sorts = s.sort((a, b) => a - b);

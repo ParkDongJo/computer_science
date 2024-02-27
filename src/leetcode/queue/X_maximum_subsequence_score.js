@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/maximum-subsequence-score/solutions/3557264/heap-python-js-solution/
+// https://leetcode.com/problems/maximum-subsequence-score/description/
 /**
  * @param {number[]} nums1
  * @param {number[]} nums2
