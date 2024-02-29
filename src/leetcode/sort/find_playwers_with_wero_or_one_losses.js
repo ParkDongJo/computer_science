@@ -1,95 +1,82 @@
-// https://leetcode.com/problems/largest-submatrix-with-rearrangements/solutions/4331142/video-give-me-10-minutes-how-we-think-about-a-solution
+// https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/
+
 /**
- * @param {number[][]} matrix
- * @return {number}
+ * @param {number[][]} matches
+ * @return {number[][]}
  */
-var largestSubmatrix = function(matrix) {
-    // 1을 앞으로 정렬한다.
-    // 4각형의 조건
-    // - (0, 0) null    null
-    // - (1, 0) (1, 1), (1, 2)
-    // - (2, 0) (2, 1), null
+// 내가 푼 코드
+// 480ms
+var findWinners = function (matches) {
+  // [w, l]
+  // 모든 선수에 대해서 진 수를 센다. table에 기록
+  // 이 table을 돌면서 1 이상 이하 진 선수만
+  // result 에 기록한다.
 
-    // 각각의 위치에서 만들수 있는 사각형의 넓이를 계산해놓는 것
-    // 9개 계산 -> 
-    //  - 0이면 해당 행 idx 저장!
-    //  - 열이 0이면 계산 중단(break)
-    let results = [];
-    let boundCol = matrix[0].length - 1;
-    for (let i = 0; i < matrix.length; i++) {
-        for (let j = 0; j < matrix[i].length; j++) {
-            let sum = 0;
-            if (matrix[i][j] === 0) {
-                continue;
-            }
-            for (let row = j; row < matrix.length; row++) {
-                for (let col = i; col < boundCol; col++) {
-                    console.log('sum : ', i, j, row, col)
-                    if (matrix[col][row] === 1) {
-                        sum++;
-                    } else {
-                        boundCol = col;
-                        break;
-                    }
-                }
-            }
-            results.push(sum);
-        }
-        console.log(results)
+  // [피드벡]
+  // 굳이 다 기록할 필요 있는가?
 
-        return Math.max(...results);
+  const results = [[], []];
+  const map = new Map();
+  let lastMem = 1;
+
+  for (let i = 0; i < matches.length; i++) {
+    const [w, l] = matches[i];
+    if (!map.has(w)) {
+      map.set(w, 0);
     }
+    if (map.has(l)) {
+      map.set(l, map.get(l) + 1);
+    } else {
+      map.set(l, 1);
+    }
+  }
+  // console.log(map)
+
+  // for (let i = 1; i <= lastMem; i++) {
+  //     if (map.has(i)) {
+  //         if (map.get(i) === 1) {
+  //             results[1].push(i);
+  //         }
+  //     } else {
+  //         results[0].push(i);
+  //     }
+  // }
+
+  const sorted = [...map].sort((a, b) => a[1] - b[1]).filter(([_, v]) => v < 2);
+
+  for (let i = 0; i < sorted.length; i++) {
+    const [k, v] = sorted[i];
+    if (v === 0) {
+      results[0].push(k);
+    } else {
+      results[1].push(k);
+    }
+  }
+
+  results[0].sort((a, b) => a - b);
+  results[1].sort((a, b) => a - b);
+
+  return results;
 };
 
-/*
-높이 계산
-[0,0,1]   [0,0,1]
-[1,1,1] → [1,1,2]
-[1,0,1]   [2,0,3]
+// 남이 푼 코드
+// 244ms
+var findWinners = function (matches) {
+  let losses = new Array(100001).fill(0);
 
-너비 계산 = 열길이 - idx
-[0,0,1]   [0,0,1]
-[1,1,2] → [1,1,2]
-[2,0,3]   [0,2,3]
+  for (const [winner, loser] of matches) {
+    if (losses[winner] === 0) losses[winner] = -1;
+    if (losses[loser] === -1) losses[loser] = 1;
+    else losses[loser]++;
+  }
 
-각 컬럼별로 넓이 계산
-[0,0,1]
-[2,2,2]
-[0,4,3]
+  let zeroLoss = [];
+  let oneLoss = [];
 
-하지만, 각 컬럼별로 넓이 최대값 계산
-[0,0,1]
-[3,3,3]
-[3,4,4]
+  for (let i = 1; i <= 100000; ++i) {
+    if (losses[i] === -1) zeroLoss.push(i);
+    else if (losses[i] === 1) oneLoss.push(i);
+  }
 
-결과값 4
-
-*/
-var largestSubmatrix = function(matrix) {
-    const row = matrix.length;
-    const col = matrix[0].length;
-
-    // Calculate heights for each column
-    for (let i = 1; i < row; i++) {
-        for (let j = 0; j < col; j++) {
-            if (matrix[i][j] === 1) {
-                matrix[i][j] += matrix[i - 1][j];
-            }
-        }
-    }
-
-    let res = 0;
-    for (let i = 0; i < row; i++) {
-        // Sort the heights in ascending order
-        matrix[i].sort((a, b) => a - b);
-
-        // Iterate through the sorted heights
-        for (let j = 0; j < col; j++) {
-            const height = matrix[i][j];
-            const width = col - j;
-            res = Math.max(res, height * width);
-        }
-    }
-
-    return res;    
+  return [zeroLoss, oneLoss];
 };
